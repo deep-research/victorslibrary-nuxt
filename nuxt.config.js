@@ -1,9 +1,21 @@
+const routerBase =
+  process.env.DEPLOY_ENV === "GH_PAGES"
+    ? {
+        router: {
+          base: "/victorslibrary3/"
+        }
+      }
+    : {};
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-  router: {
-    base: 'victorslibrary3/'
-  },
+
+  // Github Pages Deployment
+  routerBase,
+  // router: {
+  //   base: '/'
+  // },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
