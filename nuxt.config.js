@@ -12,7 +12,7 @@ export default {
   target: 'static',
 
   // Github Pages Deployment
-  routerBase,
+  ...routerBase,
   // router: {
   //   base: '/'
   // },
