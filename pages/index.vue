@@ -19,14 +19,3 @@ export default {
   }
 }
 </script>
-
-<style>
-  h1, h2, p {
-    margin-bottom: 10px;
-  }
-
-  body {
-    margin: 20px;
-  }
-
-</style>
