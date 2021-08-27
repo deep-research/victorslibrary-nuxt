@@ -2,7 +2,7 @@
   <article>
     <h1>All Pages</h1>
     <div v-for="article in articles" :key="article.id">
-      <h2>• <nuxt-link :to="article.path">{{ article.title }}</nuxt-link></h2>
+      <h2>• <nuxt-link :to="article.slug">{{ article.title }}</nuxt-link></h2>
       <nuxt-content :document="article" />
     </div>
   </article>

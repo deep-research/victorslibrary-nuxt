@@ -9,9 +9,31 @@
 <script>
   export default {
     async asyncData({ $content, params }) {
-      const article = await $content('/', params.slug).fetch()
+
+      let articles = await $content('/', { deep: true }).fetch()
+
+      if (!articles) {
+        return error({ statusCode: 404, message: 'Article not found' })
+      }
+
+      const article = articles.filter(item => item.slug == params.slug)[0];
 
       return { article }
     }
   }
-</script>
+
+  // export default {
+  //   async asyncData ({ $content, app, params, error }) {
+  //     const path = `/${params.pathMatch || 'index'}`
+  //     const [article] = await $content({ deep: true }).where({ path }).fetch()
+
+  //     if (!article) {
+  //       return error({ statusCode: 404, message: 'Article not found' })
+  //     }
+
+  //     return {
+  //       article
+  //     }
+  //   }
+  // }  
+// </script>
