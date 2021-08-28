@@ -2,7 +2,8 @@
   <article>
     <h1>All Pages</h1>
     <div v-for="article in articles" :key="article.id">
-      <div v-html="$md.render(article.title)"></div>
+      <h1>{{ article.title }}</h1>
+      <div v-html="$md.render(String(article.lyrics))"></div>
       <nuxt-content :document="article" />
     </div>
   </article>
