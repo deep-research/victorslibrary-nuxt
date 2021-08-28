@@ -7,10 +7,11 @@
 
 
 <script>
+  // Subfolders Become One Route for _slug.vue, use article.slug to retrieve
   export default {
     async asyncData({ $content, params }) {
 
-      let articles = await $content('/', { deep: true }).fetch()
+      let articles = await $content('/articles', { deep: true }).fetch()
 
       if (!articles) {
         return error({ statusCode: 404, message: 'Article not found' })
@@ -22,6 +23,7 @@
     }
   }
 
+  // Subfolders Create Routes for _.vue, use article.path to retrieve
   // export default {
   //   async asyncData ({ $content, app, params, error }) {
   //     const path = `/${params.pathMatch || 'index'}`
@@ -35,5 +37,5 @@
   //       article
   //     }
   //   }
-  // }  
+  // } 
 </script>
