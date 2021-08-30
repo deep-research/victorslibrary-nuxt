@@ -1,7 +1,7 @@
 <template>
   <article>
     <h1>All Pages</h1>
-    <h1 v-if="developement">Currently in development</h1>
+    <h1 v-if="dev">Currently in development</h1>
     <h1 v-else>Currently in production</h1>
 
     <div v-for="article in articles" :key="article.id">
@@ -13,15 +13,15 @@
 </template>
 
 <script lang="ts">
-  import config from "../nuxt.config.js"
+  import Config from "../nuxt.config.js"
 
   export default {
     data () {
       return {
-        developement: config.developement
+        dev: Config.dev
       }
     },
-    async asyncData ({ $content }) {
+    async asyncData ({ $content }: {$content: any })  {
       const articles = await $content('/', { deep: false }).fetch()
 
       return {

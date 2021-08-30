@@ -21,7 +21,7 @@ export default {
     fallback: "404.html"
   },
 
-  developement: process.env.NODE_ENV !== 'production',
+  dev: process.env.NODE_ENV !== 'production',
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
