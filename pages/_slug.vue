@@ -12,7 +12,7 @@
       const article = await $content('/', params.slug)
         .fetch()
         .catch((err) => {
-          error({ statusCode: 404, message: 'Page not found' })
+          error({ statusCode: 200, message: 'Page not found' })
         })
 
       return {
