@@ -18,7 +18,7 @@ export default {
   // },
 
   generate: {
-    fallback: "404.html"
+    fallback: true
   },
 
   dev: process.env.NODE_ENV !== 'production',
