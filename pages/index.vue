@@ -21,8 +21,12 @@
         dev: Config.dev
       }
     },
-    async asyncData ({ $content }: {$content: any })  {
+    async asyncData ({ $content, error }: {$content: any, error: any })  {
       const articles = await $content('/articles', { deep: true }).fetch()
+
+      if (!articles) {
+        return error({ statusCode: 404, message: 'Article not found' })
+      }
 
       return {
         articles
