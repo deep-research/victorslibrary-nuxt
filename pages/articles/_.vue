@@ -9,7 +9,8 @@
 <script lang="ts">
 export default {
   async asyncData ({ $content, app, params, error }: {$content: any, app: any, params: any, error: any }) {
-    const path = `/${params.pathMatch || 'index'}`
+    const path = `/articles/${params.pathMatch || 'index'}`
+    console.log(path)
     const [article] = await $content("articles", { deep: true }).where({ path }).fetch()
 
     if (!article) {
