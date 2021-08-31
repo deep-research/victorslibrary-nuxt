@@ -7,17 +7,17 @@
 
 
 <script>
-  export default {
-    async asyncData({ $content, params, error }) {
-      const article = await $content('/', params.slug)
-        .fetch()
-        .catch((err) => {
-          error({ statusCode: 404, message: 'Page not found' })
-        })
+export default {
+  async asyncData ({ $content, app, params, error }) {
+    const [article] = await $content("/articles", { deep: true }).where({slug: params.slug}).fetch()
 
-      return {
-        article
-      }
+    if (!article) {
+      return error({ statusCode: 404, message: 'Article not found' })
+    }
+    
+    return {
+      article
     }
   }
+}
 </script>

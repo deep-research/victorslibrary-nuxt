@@ -6,7 +6,7 @@
 
     <div v-for="article in articles" :key="article.id">
       <h1><nuxt-link :to="article.slug">{{ article.title }}</nuxt-link></h1>
-      <div v-html="$md.render(String(article.lyrics))"></div>
+      <div v-if="article.lyrics" v-html="$md.render(String(article.lyrics))"></div>
       <nuxt-content :document="article" />
     </div>
   </article>
@@ -22,7 +22,7 @@
       }
     },
     async asyncData ({ $content }: {$content: any })  {
-      const articles = await $content('/', { deep: false }).fetch()
+      const articles = await $content('/articles', { deep: true }).fetch()
 
       return {
         articles
