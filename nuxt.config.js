@@ -24,18 +24,9 @@ export default {
 
   dev: process.env.NODE_ENV !== 'production',
 
-  hooks: {
-    'content:file:beforeInsert': (file) => {
-      if (file.path.includes("tocategory")) {
-        
-        file.path = file.path.replace(
-          file.path.substring(
-            file.path.indexOf("tocategory"), file.path.lastIndexOf('/')+1
-          ), ""
-        )
-      }
-    }
-  },
+  // serverMiddleware: [
+  //   '~/middleware/redirect.js'
+  // ],
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -76,7 +67,8 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
-    '@nuxtjs/markdownit'
+    '@nuxtjs/markdownit',
+    '@nuxtjs/router-extras'
   ],
 
   // [optional] markdownit options
