@@ -16,6 +16,7 @@ export default {
       [article] = await $content("category", { deep: true }).where({ path }).fetch()
     } else if (path.startsWith("/category/tocategory")) {
       [article] = await $content("/category/tocategory", { deep: true }).where( {slug: params.pathMatch.replace("tocategory/", "")} ).fetch()
+      console.log(article.path)
     } else {
       article = false
     }
