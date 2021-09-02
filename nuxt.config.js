@@ -17,6 +17,13 @@ export default {
   //   base: '/'
   // },
 
+  generate: {
+    fallback: true,
+    // fallback: '404.html'
+  },
+
+  dev: process.env.NODE_ENV !== 'production',
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: "Victor's Library",
