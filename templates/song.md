@@ -2,7 +2,7 @@
 title: 
 band: 
 authors: [""]
-explicit: false
+explicit: 
 time period: 
 
 description: |
