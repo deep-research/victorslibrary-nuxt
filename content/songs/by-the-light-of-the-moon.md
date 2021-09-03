@@ -9,12 +9,11 @@ description: |
   This is a song that was written during a lunar ritual about intuition and depth psychology.
 
 recordings:
-  - title: 
-    type: 
-    style: 
-    length: 
-    published: 
-    link: 
+  - title: By the Light of the Moon
+    type: Demo
+    style: Rock
+    length: 1:22
+    link: https://victorslibrary.s3.amazonaws.com/music/demos/By+the+Light+of+the+Moon.mp3
 
 lyrics: |
   By the light of the moon I can see
