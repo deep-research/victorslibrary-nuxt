@@ -3,7 +3,7 @@ title: A Plastic Paradise
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-time period: college
+time period: College
 
 description: |
   This song was written to introduce the Lake Forest College football team. It sounds like Rage Against the Machine playing in the 70s.
