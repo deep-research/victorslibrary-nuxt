@@ -19,5 +19,4 @@ recordings:
 
 lyrics: |
 
-
 ---
