@@ -14,7 +14,7 @@ recordings:
     type: 
     style: 
     length: 
-    published: 
+    date published: 
     link: 
 
 lyrics: |
