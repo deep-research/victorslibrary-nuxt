@@ -2,7 +2,7 @@
 title: A Voice in the Distance
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: song
+type: Song
 explicit: false
 
 description: |

@@ -2,7 +2,7 @@
 title: Apathy = Freedom
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: song
+type: Song
 explicit: false
 time period: college
 

@@ -2,7 +2,7 @@
 title: A Portrait of Prince Khalil
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: song
+type: Song
 explicit: false
 
 description: |

@@ -2,7 +2,7 @@
 title: Al Qaeda and Jesus
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: song
+type: Song
 explicit: true
 time period: College
 
