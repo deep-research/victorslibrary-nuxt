@@ -2,6 +2,7 @@
 title: 
 band: 
 authors: [""]
+type: song
 explicit: 
 time period: 
 

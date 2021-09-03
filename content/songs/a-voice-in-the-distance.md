@@ -2,11 +2,11 @@
 title: A Voice in the Distance
 band: Reenchantment
 authors: ["Victor Fisher"]
+type: song
 explicit: false
 
 description: |
-	A song about inspiration and being positive and hope. Ew!
-
+  A song about inspiration and being positive and hope. Ew!
 
 recordings:
   - title: A Voice in the Distance

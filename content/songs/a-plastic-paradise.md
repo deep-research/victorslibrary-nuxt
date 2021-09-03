@@ -2,6 +2,7 @@
 title: A Plastic Paradise
 band: Reenchantment
 authors: ["Victor Fisher"]
+type: song
 explicit: false
 time period: College
 
