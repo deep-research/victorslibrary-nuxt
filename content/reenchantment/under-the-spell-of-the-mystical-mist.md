@@ -5,7 +5,7 @@ authors: ["Victor Fisher"]
 type: Song
 explicit: false
 
-description: This song is tells a sinister tale about my secret workings with the most extreme forms of magical rites.
+description: This song tells a sinister tale about my secret workings with one of the most extreme forms of magical rites.
 
 recordings:
   - title: 
