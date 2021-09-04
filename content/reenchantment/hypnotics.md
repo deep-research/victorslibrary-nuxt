@@ -16,23 +16,23 @@ recordings:
     link: https://victorslibrary.s3.amazonaws.com/music/demos/Hypnotics.mp3
 
 lyrics: |
-Screw this world
-It is lost
-Destroyed by hatred
-Trashed with mistrust
+  Screw this world
+  It is lost
+  Destroyed by hatred
+  Trashed with mistrust
 
-Each man must fight
-On his own
-Without the law
-You are alone
+  Each man must fight
+  On his own
+  Without the law
+  You are alone
 
-Ethereal forest
-Enchanted tomb
-Inside my basement
-In cryptic gloom
+  Ethereal forest
+  Enchanted tomb
+  Inside my basement
+  In cryptic gloom
 
-Wither shall we wander
-Who will redeem
-After the doom
-Of human dream
+  Wither shall we wander
+  Who will redeem
+  After the doom
+  Of human dream
 ---
