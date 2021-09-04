@@ -11,12 +11,12 @@ description: |
   It is the official anthem of the subversive cult that is known as The Shadow Work Society.
 
 recordings:
-  - title: 
-    type: 
-    style: 
-    length: 
+  - title: The Temple of Delirium
+    type: Recording
+    style: Doom Metal
+    length: 3:54
     released: 
-    link: 
+    link: https://victorslibrary.s3.amazonaws.com/music/The+Temple+of+Delirium/The+Temple+of+Delirium.mp3
 
 lyrics: |
   I met the void inside me
