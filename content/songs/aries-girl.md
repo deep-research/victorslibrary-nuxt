@@ -4,7 +4,6 @@ band: Reenchantment
 authors: ["Victor Fisher"]
 type: Song
 explicit: false
-time period: College
 
 description: |
   This song was inspired by the [Garden State soundtrack](https://en.wikipedia.org/wiki/Garden_State_(soundtrack)), and those times we let a chance to someone love slip away.
@@ -14,6 +13,7 @@ recordings:
     type: Recording
     style: Electronic
     length: 4:09
+    date published: 
     link: https://victorslibrary.s3.amazonaws.com/music/Aries+Girl/Aries+Girl.mp3
 
 lyrics: |

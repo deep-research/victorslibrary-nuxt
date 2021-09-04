@@ -4,7 +4,6 @@ band: Reenchantment
 authors: ["Victor Fisher"]
 type: Song
 explicit: true
-time period: High School
 
 description: |
   A very intense doom metal song inspired by our friends in the police state.
@@ -14,6 +13,7 @@ recordings:
     type: Demo
     style: Doom Metal
     length: 7:38
+    date published: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/Attempting+to+Survive+in+Alternative+Planes+of+Existence.mp3
 
 lyrics: |

@@ -4,7 +4,6 @@ band: Reenchantment
 authors: ["Victor Fisher"]
 type: Song
 explicit: false
-time period: College
 
 description: |
   An ode to the spirits of loneliness.
@@ -14,6 +13,7 @@ recordings:
     type: Recording
     style: Rock
     length: 3:17
+    date published: 
     link: https://victorslibrary.s3.amazonaws.com/music/An+Invocation+of+a+Spirit+Yet+Unknown/An+Invocation+of+a+Spirit+Yet+Unknown+(Heavy+Version).mp3
 
 lyrics: |

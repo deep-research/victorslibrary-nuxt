@@ -4,7 +4,6 @@ band: Reenchantment
 authors: ["Victor Fisher"]
 type: Song
 explicit: false
-time period: College
 
 description: I used this recording to push the limits of how dark and heavy a psychedelic metal track can become.
 

@@ -4,7 +4,6 @@ band: Reenchantment
 authors: ["Victor Fisher"]
 type: Song
 explicit: false
-time period: college
 
 description: |
   A poignant song about the agonies of heartbreak, and the depths of despair.

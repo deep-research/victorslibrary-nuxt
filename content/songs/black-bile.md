@@ -4,7 +4,6 @@ band: Reenchantment
 authors: ["Victor Fisher"]
 type: Song
 explicit: false
-time period: College
 
 description: |
   Traditional instrumentation and a sincere meditation on the struggle to find meaning.
@@ -14,6 +13,7 @@ recordings:
     type: Recording
     style: Ballad
     length: 2:18
+    date published: 
     link: https://victorslibrary.s3.amazonaws.com/music/Black+Bile/Black+Bile.mp3
 
 lyrics: |

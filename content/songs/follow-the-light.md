@@ -4,7 +4,6 @@ band: Reenchantment
 authors: ["Victor Fisher"]
 type: Song
 explicit: false
-time period: High School
 
 description: This is the second song that I wrote for my high school band Shroud of Delirium. It exemplifies our early doom metal sound. The lyrics describes the drive towards individuation that I experienced in my early teenage years.
 
@@ -19,11 +18,13 @@ recordings:
     type: Recording
     style: Doom Metal
     length: 7:32
+    date published: 
     link: https://victorslibrary.s3.amazonaws.com/music/Follow+the+Light/Follow+the+Light+(Ambient+Version).mp3
   - title: Follow the Light (High School Version)
     type: Recording
     style: Doom Metal
     length: 9:20
+    date published: 
     link: https://victorslibrary.s3.amazonaws.com/music/Follow+the+Light/Follow+the+Light+(High+School+Version).mp3
 
 lyrics: |

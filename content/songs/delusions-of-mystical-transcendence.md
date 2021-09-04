@@ -4,7 +4,6 @@ band: Reenchantment
 authors: ["Victor Fisher"]
 type: Song
 explicit: false
-time period: College
 
 description: |
   A doom metal song inspired by the wicked powers of datura!
@@ -14,6 +13,7 @@ recordings:
     type: Demo
     style: Doom Metal
     length: 4:52
+    date published: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/Delusions+of+Mystical+Transcendence.mp3
 
 lyrics: |

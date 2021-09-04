@@ -4,7 +4,6 @@ band: Reenchantment
 authors: ["Victor Fisher"]
 type: Song
 explicit: true
-time period: College
 
 description: |
   One time I spent an entire summer listening to [crossover thrash](https://en.wikipedia.org/wiki/Crossover_thrash). Things eventually boiled over when I repeatedly screamed “Al Qaeda” and gave the Nazi salute towards a busy intersection of commuters stuck in traffic. I was on rollerblades.
@@ -16,11 +15,13 @@ recordings:
     type: Recording
     style: Hard Rock
     length: 3:22
+    date published: 
     link: https://victorslibrary.s3.amazonaws.com/music/Al+Qaeda+and+Jesus/Al+Qaeda+and+Jesus.mp3
   - title: Al Qaeda and Jesus (Clean Edit)
     type: Recording
     style: Hard Rock
     length: 3:18
+    date published: 
     link: https://victorslibrary.s3.amazonaws.com/music/Al+Qaeda+and+Jesus/Al+Qaeda+and+Jesus+(Clean+Edit).mp3
 
 lyrics: |
