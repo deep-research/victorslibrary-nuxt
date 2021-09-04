@@ -13,7 +13,7 @@ recordings:
     type: 
     style: 
     length: 
-    date published: 
+    released: 
     link: 
 
 lyrics: |

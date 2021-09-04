@@ -13,7 +13,7 @@ recordings:
     type: Recording
     style: Ballad
     length: 2:18
-    date published: 
+    released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Black+Bile/Black+Bile.mp3
 
 lyrics: |

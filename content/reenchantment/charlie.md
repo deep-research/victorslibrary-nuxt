@@ -13,7 +13,7 @@ recordings:
     type: Recording
     style: Electronic
     length: 0:58
-    date published: 
+    released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Charlie/Charlie.mp3
 
 lyrics: |

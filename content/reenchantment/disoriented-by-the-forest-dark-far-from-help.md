@@ -13,7 +13,7 @@ recordings:
     type: Demo
     style: Rock
     length: 5:35
-    date published: 
+    released: 
     link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/demos/Disoriented+By+the+Forest+Dark+(Far+From+Help).mp3
 
 lyrics: |

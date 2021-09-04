@@ -13,7 +13,7 @@ recordings:
     type: Demo
     style: Doom Metal
     length: 7:38
-    date published: 
+    released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/Attempting+to+Survive+in+Alternative+Planes+of+Existence.mp3
 
 lyrics: |

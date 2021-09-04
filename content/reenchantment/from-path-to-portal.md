@@ -12,7 +12,7 @@ recordings:
     type: Demo
     style: Rock
     length: 3:09
-    date published: 
+    released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/From+Path+to+Portal.mp3
 
 lyrics: |

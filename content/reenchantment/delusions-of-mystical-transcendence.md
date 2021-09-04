@@ -13,7 +13,7 @@ recordings:
     type: Demo
     style: Doom Metal
     length: 4:52
-    date published: 
+    released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/Delusions+of+Mystical+Transcendence.mp3
 
 lyrics: |

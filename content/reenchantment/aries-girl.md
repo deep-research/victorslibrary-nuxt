@@ -13,7 +13,7 @@ recordings:
     type: Recording
     style: Electronic
     length: 4:09
-    date published: 
+    released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Aries+Girl/Aries+Girl.mp3
 
 lyrics: |

@@ -12,7 +12,7 @@ recordings:
     type: Recording
     style: Drone
     length: 2:44
-    date published: 
+    released: 
     link: https://victorslibrary.s3.amazonaws.com/music/derShamanDrone/derShamanDrone.mp3
 
 lyrics: Instrumental

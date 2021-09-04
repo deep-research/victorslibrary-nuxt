@@ -13,7 +13,7 @@ recordings:
     type: Recording
     style: Rock
     length: 3:17
-    date published: 
+    released: 
     link: https://victorslibrary.s3.amazonaws.com/music/An+Invocation+of+a+Spirit+Yet+Unknown/An+Invocation+of+a+Spirit+Yet+Unknown+(Heavy+Version).mp3
 
 lyrics: |

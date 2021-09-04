@@ -13,7 +13,7 @@ recordings:
     type: Recording
     style: Hard Rock
     length: 4:54
-    date published: 
+    released: 
     link: https://victorslibrary.s3.amazonaws.com/music/A+Plastic+Paradise/A+Plastic+Paradise.mp3
 
 lyrics: |
