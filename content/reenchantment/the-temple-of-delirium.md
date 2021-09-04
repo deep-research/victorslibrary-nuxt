@@ -6,7 +6,7 @@ type: Song
 explicit: false
 
 description: |
-  This is a musical depiction of the dark side within us all.
+  This song is a musical depiction of the dark side within us all.
 
   It is the official anthem of the subversive cult that is known as The Shadow Work Society.
 
