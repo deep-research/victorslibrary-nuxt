@@ -4,7 +4,6 @@ band: Reenchantment
 authors: ["Victor Fisher"]
 type: Song
 explicit: false
-time period: 
 
 description: |
   For this recording, I channeled the radical wisdom of Charles Manson.

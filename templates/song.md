@@ -4,7 +4,6 @@ band:
 authors: [""]
 type: Song
 explicit: 
-time period: 
 
 description: |
 
