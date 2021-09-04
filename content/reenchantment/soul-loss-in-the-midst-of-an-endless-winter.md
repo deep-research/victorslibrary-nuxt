@@ -5,7 +5,7 @@ authors: ["Victor Fisher"]
 type: Song
 explicit: false
 
-description: This is a song explores the inner workings of twisted mind.
+description: This is a song that explores the inner workings of twisted mind.
 
 recordings:
   - title: Soul Loss in the Midst of an Endless Winter

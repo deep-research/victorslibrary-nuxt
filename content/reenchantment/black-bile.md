@@ -6,8 +6,7 @@ type: Song
 explicit: false
 
 description: |
-  Traditional instrumentation and a sincere meditation on the struggle to find meaning.
-
+  This song describes the symptoms that one may encounter when facing a loss of meaning in their life. It was recorded with the use of traditional instrumentation.
 recordings:
   - title: Black Bile
     type: Recording

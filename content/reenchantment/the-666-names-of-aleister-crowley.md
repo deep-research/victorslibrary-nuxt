@@ -6,7 +6,7 @@ type: Song
 explicit: true
 
 description: |
-  A Hindu style prayer, chanted in honor of [the great beast 666](https://en.wikipedia.org/wiki/Aleister_Crowley) himself.
+  This is a Hindu style prayer, chanted in honor of [the great beast 666](https://en.wikipedia.org/wiki/Aleister_Crowley) himself.
 
 recordings:
   - title: The 666 Names of Aleister Crowley

@@ -5,7 +5,7 @@ authors: ["Victor Fisher"]
 type: Song
 explicit: false
 
-description: A cute song about love, with a touch of darkness.
+description: This is a cute song about love, with a touch of darkness.
 
 recordings:
   - title: Song for a Friend

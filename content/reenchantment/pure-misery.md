@@ -5,7 +5,7 @@ authors: ["Victor Fisher"]
 type: Song
 explicit: false
 
-description: A song about nihilism, alienation and the descent into insanity.
+description: This is a song about nihilism, alienation and the descent into insanity.
 
 recordings:
   - title: Pure Misery

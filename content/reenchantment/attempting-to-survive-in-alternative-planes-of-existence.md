@@ -6,7 +6,7 @@ type: Song
 explicit: true
 
 description: |
-  A very intense doom metal song inspired by our friends in the police state.
+  This is a very intense doom metal song inspired by our friends in the police state.
 
 recordings:
   - title: Attempting to Survive in Alternative Planes of Existence

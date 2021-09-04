@@ -6,7 +6,7 @@ type: Song
 explicit: false
 
 description: |
-  A song about inspiration and being positive and hope. Ew!
+  This is a song about inspiration and being positive and hope. Ew!
 
 recordings:
   - title: A Voice in the Distance

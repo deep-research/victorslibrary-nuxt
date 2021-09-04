@@ -6,7 +6,7 @@ type: Song
 explicit: false
 
 description: |
-  A poignant song about the agonies of heartbreak, and the depths of despair.
+  This is a poignant song about the agonies of heartbreak, and the depths of despair.
 
 recordings:
   - title: Apathy = Freedom

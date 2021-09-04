@@ -5,8 +5,7 @@ authors: ["Victor Fisher"]
 type: Song
 explicit: false
 
-description: |
-
+description: This song represents the outcry of a wretched soul.
 
 recordings:
   - title: Disoriented By the Forest Dark (Far From Help)

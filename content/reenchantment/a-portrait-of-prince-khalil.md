@@ -6,7 +6,7 @@ type: Song
 explicit: false
 
 description: |
-  A musical portrait of the honorable Joseph Khalil.
+  This is a musical portrait of the honorable Joseph Khalil.
 
 recordings:
   - title: A Portrait of Prince Khalil

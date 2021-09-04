@@ -6,7 +6,7 @@ type: Song
 explicit: false
 
 description: |
-  An ode to the spirits of loneliness.
+  This is an ode to the spirits of loneliness.
 
 recordings:
   - title: An Invocation of a Spirit Yet Unknown

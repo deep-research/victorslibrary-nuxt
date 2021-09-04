@@ -5,7 +5,7 @@ authors: ["Victor Fisher"]
 type: Song
 explicit: false
 
-description: A heartfelt song about the feeling of loosing your sense of self.
+description: This is a heartfelt song about the feeling of loosing your sense of self.
 
 recordings:
   - title: Remember (High School Version)

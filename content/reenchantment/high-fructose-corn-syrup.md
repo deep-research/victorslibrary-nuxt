@@ -5,7 +5,7 @@ authors: [" Victor Fisher"]
 type: Song
 explicit: false
 
-description: A blues rock song about Hurricane Katrina. I wrote this with Lamp, my first band in High School.
+description: This is a blues rock song about Hurricane Katrina. I wrote this with Lamp, my first band in High School.
 
 recordings:
   - title: High Fructose Corn Syrup

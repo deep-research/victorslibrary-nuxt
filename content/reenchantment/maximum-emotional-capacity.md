@@ -5,7 +5,7 @@ authors: ["Victor Fisher"]
 type: Song
 explicit: false
 
-description: A sad song about longing for love.
+description: This is sad song about the feeling of longing for love.
 
 
 recordings:

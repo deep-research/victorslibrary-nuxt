@@ -5,8 +5,7 @@ authors: ["Victor Fisher"]
 type: Song
 explicit: false
 
-description: |
-  A doom metal song inspired by the wicked powers of datura!
+description: This song is inspired by the wicked powers of datura!
 
 recordings:
   - title: Delusions of Mystical Transcendence

@@ -6,7 +6,7 @@ type: Song
 explicit: false
 
 description: |
-  I was required to play public service announcements on Reverend Radio, which was my college radio show. After getting sick of them, I decided to make one of my own. It ended up playing the automation system for months.
+  I was required to play public service announcements on my college radio show, which was called *Reverend Radio*. After getting sick of them, I decided to make one of my own. It ended up playing the automation system for many months.
   
   [WMXM 88.9 FM Lake Forest College Radio](https://wmxm.org/)
 

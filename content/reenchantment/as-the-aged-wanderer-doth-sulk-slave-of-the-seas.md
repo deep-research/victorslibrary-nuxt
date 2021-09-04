@@ -6,7 +6,7 @@ type: Song
 explicit: false
 
 description: |
-  A highly romanticized funeral doom song. They should play this at the opera.
+  This is a highly romanticized doom metal song. They should play this at the opera.
 
 recordings:
   - title: As the Aged Wanderer Doth Sulk (Slave of the Seas)
