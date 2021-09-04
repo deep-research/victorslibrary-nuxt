@@ -7,7 +7,7 @@ explicit: false
 
 description: |
 
-  This doom metal song uses synthesizers to evoke the darker realms of spiritual exploration. The real question in occult research is *who do you trust?*
+  This song uses synthesizers to evoke the darker realms of spiritual exploration. The real question in occult research is *who do you trust?*
 
 recordings:
   - title: The Weirdness of the Night

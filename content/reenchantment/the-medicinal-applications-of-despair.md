@@ -5,7 +5,7 @@ authors: ["Victor Fisher"]
 type: Song
 explicit: true
 
-description: This doom metal song confronts the listener with the horrifying nature of an unhinged mind.
+description: This song confronts the listener with the horrifying nature of an unhinged mind.
 
 recordings:
   - title: The Medicinal Applications of Despair

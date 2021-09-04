@@ -6,7 +6,7 @@ type: Song
 explicit: false
 
 description: |
-  I used to open my [show](http://wmxm.radioactivity.fm/playlist.html?djoid=5590) on [college radio](https://wmxm.org/) with this song as the introduction.
+  I used to open my [show](http://wmxm.radioactivity.fm/playlist.html?djoid=5590) on [college radio](https://wmxm.org/) with this recording as the introduction.
 
 recordings:
   - title: WMXM Hard Rock Promo

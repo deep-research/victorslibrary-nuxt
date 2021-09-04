@@ -6,7 +6,7 @@ type: Song
 explicit: false
 
 description: |
-  This doom metal song depicts the contrast between a feeling of extreme terror and a calm and reflective period that may be experienced in its wake.
+  This song depicts the contrast between a feeling of extreme terror and a calm and reflective period that may be experienced in its wake.
   
   It is named after the exquisite composer [Edvard Grieg](https://en.wikipedia.org/wiki/Funeral_March_in_Memory_of_Rikard_Nordraak).
 

@@ -5,7 +5,7 @@ authors: ["Victor Fisher"]
 type: Song
 explicit: true
 
-description: This doom metal recording describes a terrifying journey through an apocalyptic vision.
+description: This recording describes a terrifying journey through an apocalyptic vision.
 
 recordings:
   - title: The Wrath of God

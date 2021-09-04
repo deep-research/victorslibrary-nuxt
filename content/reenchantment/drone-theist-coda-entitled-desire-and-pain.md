@@ -5,7 +5,7 @@ authors: ["Victor Fisher"]
 type: Song
 explicit: false
 
-description: This is a drone metal reflection on the Jungian shadow, and the terrifying realms of nihilism.
+description: This song is a reflection on the Jungian shadow, and the terrifying realms of nihilism.
 
 recordings:
   - title: DroneTheist [Coda entitled Desire and Pain]

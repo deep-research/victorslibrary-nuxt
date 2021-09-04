@@ -5,7 +5,7 @@ authors: ["Victor Fisher"]
 type: Song
 explicit: false
 
-description: This is a doom metal song about the dark history of mankind.
+description: This is an epic song about the dark history of mankind.
 
 recordings:
   - title: The Ritual
