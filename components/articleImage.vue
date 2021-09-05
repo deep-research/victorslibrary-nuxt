@@ -35,6 +35,7 @@ export default {
 
 <style scoped>
 img {
-  max-width: 400px;
+  max-width: 100%;
+  height: auto;
 }
 </style>
