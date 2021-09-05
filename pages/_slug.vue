@@ -93,7 +93,7 @@ video {
 }
 
 @media only screen and (max-width: 480px) {
-  img {
+  video {
     width: 90%;
   }
 }
