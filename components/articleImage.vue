@@ -35,7 +35,7 @@ export default {
 
 <style scoped>
 img {
-  max-width: 400px;
+  max-width: 480px;
 }
 
 @media only screen and (max-width: 480px) {

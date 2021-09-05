@@ -89,12 +89,12 @@ export default {
 
 <style scoped>
 video {
-  max-width: 400px;
+  max-width: 480px;
 }
 
 @media only screen and (max-width: 480px) {
   video {
-    width: 90%;
+    width: 100%;
   }
 }
 </style>
