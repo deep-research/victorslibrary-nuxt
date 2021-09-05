@@ -33,16 +33,22 @@
           <div v-if="recording.length">Length: {{ recording.length }}</div>
           <div v-if="recording.released">Released: {{ recording.released }}</div>
           
-          <p v-if="recording.link && recording.type !=='video'">
+          <p v-if="recording.link && recording.type !== 'Video'">
             <audio controlsList="nodownload" controls>
               <source :src="recording.link" type="audio/mp3" />
               Your browser does not support the audio element.
             </audio>
           </p>
+          <p v-else-if="recording.link && recording.type === 'Video'">
+            <video controlsList="nodownload" controls>
+              <source :src="recording.link" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </p>          
         </div>
       </div>
 
-       <div v-if="article.lyrics">
+      <div v-if="article.lyrics">
         <h2>Lyrics</h2>
         <p v-html="$md.render(String(article.lyrics))"></p>
       </div>
@@ -80,3 +86,9 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+video {
+  max-width: 400px;
+}
+</style>
