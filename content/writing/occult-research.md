@@ -33,7 +33,11 @@ Meditation is an introspective practice where you follow your thought process. Y
 Hypnosis differs from meditation bin that you actually alter your thoughts. You can use it to influence your subconscious mind.
 
 As Lao Tzu wrote:
-> Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny.
+> Watch your thoughts, they become your words;
+> watch your words, they become your actions;
+> watch your actions, they become your habits;
+> watch your habits, they become your character;
+> watch your character, it becomes your destiny.
 
 Meditation and hypnosis both work primarily through a person's internal monologue.
 

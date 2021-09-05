@@ -15,6 +15,5 @@ recordings:
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Satanic+Drug+Users+from+Outer+Space/Satanic+Drug+Users+from+Outer+Space.mp3
 
-lyrics: |
-  > Satan has the best drugs
+lyrics: Satan has the best drugs
 ---

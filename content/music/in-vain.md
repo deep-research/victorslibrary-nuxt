@@ -55,14 +55,14 @@ lyrics: |
   > Puts your name on a list, then we dispatch a drone to follow you and then we eventually take it upon ourselves to kill you, without any trial, without any evidence, and then kill about ten other civilians that happen to be standing next to you.
   > It’s difficult for people to understand that when you drop bombs from the air on people, you don’t see ’em die. You don’t see ’em die. They’re down there. You don’t see ’em. You don’t see ’em die.
   > Here, our actions, our actions are causing people to die. Causing people to die. Our actions are causing people to die.
-  >
-  > Take it to the streets now
-  > Go get your f\*\*\*in’ piece now
-  > Get ready, to take back your rights
-  > Take it to the streets now
-  > Get out your f\*\*\*in’ piece now
-  > Get ready to take back, your God-given rights come on
-  > Clean their clock
-  > Yeah yeah
-  > You know their m\*\*\*erf\*\*\*ing clock
+  
+  Take it to the streets now
+  Go get your f\*\*\*in’ piece now
+  Get ready, to take back your rights
+  Take it to the streets now
+  Get out your f\*\*\*in’ piece now
+  Get ready to take back, your God-given rights come on
+  Clean their clock
+  Yeah yeah
+  You know their m\*\*\*erf\*\*\*ing clock
 ---

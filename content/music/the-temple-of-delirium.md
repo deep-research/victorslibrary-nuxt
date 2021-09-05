@@ -41,8 +41,8 @@ lyrics: |
 
   666
 
-  From "The Satanic Bible" by Anton LaVey:
+  From *The Satanic Bible* by Anton LaVey:
   > Called the black pope by many of his followers
-  > Anton LaVey began the road to the high priesthood of the Church of Satan > when he was only 16 years old
+  > Anton LaVey began the road to the high priesthood of the Church of Satan when he was only 16 years old
   > And an organ player in a carnival
 ---
