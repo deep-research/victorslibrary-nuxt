@@ -24,7 +24,7 @@
       </div>
 
       <div v-if="article.recordings">
-        <h2>Recording<span v-if="article.recordings.length > 1">s</span>:</h2>
+        <h2>Recording<span v-if="article.recordings.length > 1">s</span></h2>
         <div v-for="recording in article.recordings" :key="recording.title">
           <h3 v-if="recording.title">{{ recording.title }}</h3>
         

@@ -38,9 +38,7 @@ date: September 16, 2019
 -   Due to the fact that the band was starting to wane, I started a solo project called *The Reverend of Despair.*
 -   I also started a radio show called *[Reverend Radio](https://strangepeopleinpain.bandcamp.com/album/the-reverend-radio-promos)* on [WMXM 88.9 FM](http://wmxm.org/), Lake Forest College radio.
 
-http://localhost:8080/wordpress/wp-content/uploads/2019/09/thumbnail_Forest-Reverend.jpg?fit=640%2C841&ssl=1
-
-Behold, The Lord Reverend Wizard of Alchemical Despair!
+<article-image src="forest-reverend.jpg" alt="The Lord Reverend Wizard of Alchemical Despair" caption="Behold, The Lord Reverend Wizard of Alchemical Despair!"></article-image>
 
 ### 2011
 
@@ -54,16 +52,14 @@ Behold, The Lord Reverend Wizard of Alchemical Despair!
 Here is a quote that was used to spread the malevolent influence of the album:
 > We, His Excellency The Lord Reverend Wizard of Alchemical Despair Himself! By the Grace of God, Emperor and Autocrat of All Underground Heavy Metal and Rock and Roll Music and the Most Feared D.J. on All Radio, et cetera, et cetera, et cetera Hereby Pronounce "At the Edge of the World" to be the Greatest Recording Ever Created For All Time With No Exception and Deem It Mandatory to Listen to This Record, For All Able Bodied Souls Within the Confines of The Reverend's Magnificently Glorious and Eternal Empire.
 
-http://localhost:8080/wordpress/wp-content/uploads/2019/09/a3179717510_10.jpg
-
-Aaron depicted on the cover of my album
+<article-image src="at-the-edge-of-the-world.jpg" alt="At the Edge of the World" caption="Aaron depicted on the cover of my album."></article-image>
 
 ### 2013
 
 -   Aaron also started a solo project called *[Pater Shrouder](https://patershrouder.bandcamp.com/)*.
 -   Aaron and I completed a powerful and violent ritual known as *The Night of Nine Rites*.
 
-http://localhost:8080/wordpress/wp-content/uploads/2019/09/a1641456362_10.jpg?fit=640%2C640&ssl=1
+<article-image src="shadow-work-by-pater-shrouder.jpg" alt="Shadow Work by Pater Shrouder"></article-image>
 
 ### 2014
 
@@ -80,9 +76,7 @@ http://localhost:8080/wordpress/wp-content/uploads/2019/09/a1641456362_10.jpg?fi
 -   I shut it down after it started getting attention from our friends in Virginia.
 -   Aaron and I were also involved with a mysterious occult group known as *The Shadow Work Society*.
 
-http://localhost:8080/wordpress/wp-content/uploads/2019/09/18424162_2127590884133888_6390973747194732106_n.jpg
-
-We are really evil!
+<article-image src="strange-people-in-pain.jpg" alt="At the Edge of the World" caption="We are really evil!"></article-image>
 
 ### 2017
 
