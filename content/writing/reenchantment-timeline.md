@@ -23,7 +23,7 @@ date: September 16, 2019
 ### 2008
 
 -   The band entered a psychedelic period in 2008.
--   I was into stoner movies like *Dig!*, *Dazed & Confused* and *This Is How We Trip* at the time. I also loved conspiracy documentaries on *Google Video* like *Zeitgeist *and *America: Freedom to Fascism*.
+-   I was into stoner movies like *Dig!*, *Dazed & Confused* and *This Is How We Trip* at the time. I also loved conspiracy documentaries on *Google Video* like *Zeitgeist* and *America: Freedom to Fascism*.
 -   I added Acoustic rock songs such as They'll Come For You and Remember to the set.
 -   A short lived project called *Jeff's After School Special* was formed.
 
