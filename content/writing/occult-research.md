@@ -85,6 +85,5 @@ I would recommend Osho's book "Astrology: Superstition, Blind Faith or a Door to
 
 Lucid dreaming is an unusual state of mind with very interesting properties. Lucid dreams definitely give you the impression that you are in another world.
 
+Carlos Castaneda:
 > A man goes to knowledge as he goes to war: wide-awake, with fear, with respect, and with absolute assurance. Going to knowledge or going to war in any other manner is a mistake, and whoever makes it might never live to regret it.
->
-> *-- Carlos Castaneda*
