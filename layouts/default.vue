@@ -11,8 +11,8 @@
 }
 
 @media only screen and (max-width: 480px) {
-  img {
-    width: 90%;
+  #__layout {
+    margin: 25px;
   }
 }
 

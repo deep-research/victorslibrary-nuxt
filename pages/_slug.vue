@@ -94,7 +94,7 @@ video {
 
 @media only screen and (max-width: 480px) {
   img {
-    width: 100%;
+    width: 90%;
   }
 }
 </style>
