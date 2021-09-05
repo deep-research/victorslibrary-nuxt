@@ -1,3 +1,8 @@
+---
+title: Related Projects
+author: Victor Fisher
+---
+
 # Related Projects
 
 1.  [Pater Shrouder](https://patershrouder.bandcamp.com/) - Evil Drone Metal by Aaron Schreiber
