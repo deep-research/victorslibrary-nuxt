@@ -29,5 +29,6 @@ lyrics: |
 
   Terence McKenna:
   > The cost of sanity in this society is a certain level of alienation
+  >
   > If you don’t have a plan, you become a part of somebody else’s plan
 ---
