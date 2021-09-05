@@ -89,7 +89,12 @@ export default {
 
 <style scoped>
 video {
-  width: 100%;
-  height: auto;
+  max-width: 400px;
+}
+
+@media only screen and (max-width: 480px) {
+  img {
+    width: 100%;
+  }
 }
 </style>

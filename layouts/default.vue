@@ -7,7 +7,13 @@
 <style>
 /* @import '~/assets/style/boilerplate.css' */
 #__layout {
-  margin: 40px;
+  margin: 50px;
+}
+
+@media only screen and (max-width: 480px) {
+  img {
+    width: 90%;
+  }
 }
 
 /* html {
