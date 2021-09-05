@@ -3,7 +3,7 @@ title: Related Projects
 author: Victor Fisher
 ---
 
-These is a list of some projects that are related to my musical work in Reenchantment.
+This is a list of some projects that are related to my musical work in Reenchantment.
 
 1.  [Pater Shrouder](https://patershrouder.bandcamp.com/) - Evil Drone Metal by Aaron Schreiber
 2.  [The Metal Archives](https://www.metal-archives.com/bands/The_Reverend_of_Despair/) - My work listed as a metal project.
