@@ -7,7 +7,7 @@
 <style>
 /* @import '~/assets/style/boilerplate.css' */
 #__layout {
-  margin: 50px;
+  margin: 40px;
 }
 
 /* html {
