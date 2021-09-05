@@ -11,7 +11,7 @@ recordings:
   - title: The Medicinal Applications of Despair
     type: Recording
     style: Doom Metal
-    length: 2:36
+    length: "2:36"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/The+Medicinal+Applications+of+Despair/The+Medicinal+Applications+of+Despair.mp3
 

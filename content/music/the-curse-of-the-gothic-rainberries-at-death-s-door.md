@@ -11,13 +11,13 @@ recordings:
   - title: The Curse of the Gothic Rainberries at Death’s Door
     type: Recording
     style: Doom Metal
-    length: 6:57
+    length: "6:57"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/The+Curse+of+the+Gothic+Rainberries+at+Death's+Door/The+Curse+of+the+Gothic+Rainberries+at+Death's+Door.mp3
   - title: The Curse of the Gothic Rainberries at Death’s Door
     type: Video
     style: Doom Metal
-    length: 6:55
+    length: "6:55"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/The+Curse+of+the+Gothic+Rainberries+at+Death's+Door/The+Curse+of+the+Gothic+Rainberries+at+Deaths+Door.mp4
 

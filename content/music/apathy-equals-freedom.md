@@ -12,7 +12,7 @@ recordings:
   - title: Apathy = Freedom
     type: Recording
     style: Rock
-    length: 6:04
+    length: "6:04"
     released: December 29 2019
     link: https://victorslibrary.s3.amazonaws.com/music/Apathy+%3D+Freedom/Apathy+%3D+Freedom.mp3
 

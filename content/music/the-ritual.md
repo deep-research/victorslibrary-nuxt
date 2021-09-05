@@ -11,7 +11,7 @@ recordings:
   - title: The Ritual
     type: Recording
     style: Doom Metal
-    length: 9:13
+    length: "9:13"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/The+Ritual/The+Ritual.mp3
 

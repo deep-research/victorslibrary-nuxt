@@ -14,7 +14,7 @@ recordings:
   - title: The Grieg and Euphorization Revealed
     type: Recording
     style: Doom Metal
-    length: 3:25
+    length: "3:25"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/The+Grieg+and+Euphorization+Revealed/The+Grieg+and+Euphorization+Revealed.mp3
 

@@ -12,7 +12,7 @@ recordings:
   - title: WMXM Hard Rock Promo
     type: Recording
     style: Hard Rock
-    length: 0:50
+    length: "0:50"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/WMXM+Hard+Rock+Promo/WMXM+Hard+Rock+Promo.mp3
 

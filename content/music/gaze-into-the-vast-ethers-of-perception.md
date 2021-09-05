@@ -11,7 +11,7 @@ recordings:
   - title: Gaze into the Vast Ethers of Perception (High School Version)
     type: Recording
     style: Doom Metal
-    length: 8:33
+    length: "8:33"
     link: https://victorslibrary.s3.amazonaws.com/music/Gaze+into+the+Vast+Ethers+of+Perception/Gaze+into+the+Vast+Ethers+of+Perception+(High+School+Version).mp3
 
 lyrics: |

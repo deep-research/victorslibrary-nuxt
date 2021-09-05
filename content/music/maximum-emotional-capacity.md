@@ -12,7 +12,7 @@ recordings:
   - title: Maximum Emotional Capacity
     type: draft
     style: Rock
-    length: 3:38
+    length: "3:38"
     released: 
     link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/demos/Maximum+Emotional+Capacity.mp3
 

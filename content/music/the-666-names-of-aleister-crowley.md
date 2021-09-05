@@ -12,7 +12,7 @@ recordings:
   - title: The 666 Names of Aleister Crowley
     type: Recording
     style: Drone
-    length: 7:36
+    length: "7:36"
     released: April 30, 2017
     link: https://victorslibrary.s3.amazonaws.com/music/The+666+Names+of+Aleister+Crowley/The+666+Names+of+Aleister+Crowley.mp3
 

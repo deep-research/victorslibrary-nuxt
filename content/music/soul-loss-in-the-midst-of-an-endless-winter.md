@@ -11,13 +11,13 @@ recordings:
   - title: Soul Loss in the Midst of an Endless Winter
     type: Recording
     style: Rock
-    length: 6:35
+    length: "6:35"
     released: March 10 2021
     link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/Soul+Loss+in+the+Midst+of+an+Endless+Winter/Soul+Loss+in+the+Midst+of+an+Endless+Winter.mp3
   - title: Soul Loss in the Midst of an Endless Winter (Demo)
     type: Demo
     style: Doom Metal
-    length: 4:41
+    length: "4:41"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/Soul+Loss+in+the+Midst+of+an+Endless+Winter.mp3
 

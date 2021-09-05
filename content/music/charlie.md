@@ -12,7 +12,7 @@ recordings:
   - title: Charlie
     type: Recording
     style: Electronic
-    length: 0:58
+    length: "0:58"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Charlie/Charlie.mp3
 

@@ -12,7 +12,7 @@ recordings:
   - title: Sleeper Cell
     type: Recording
     style: Hard Rock
-    length: 1:46
+    length: "1:46"
     released: 
     link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/Sleeper+Cell/Sleeper+Cell.mp3
 

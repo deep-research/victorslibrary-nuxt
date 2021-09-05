@@ -11,7 +11,7 @@ recordings:
   - title: Remember (High School Version)
     type: Recording
     style: Rock
-    length: 9:23
+    length: "9:23"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Remember/Remember+(High+School+Version).mp3
 

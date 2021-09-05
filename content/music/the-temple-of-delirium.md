@@ -14,7 +14,7 @@ recordings:
   - title: The Temple of Delirium
     type: Recording
     style: Doom Metal
-    length: 3:54
+    length: "3:54"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/The+Temple+of+Delirium/The+Temple+of+Delirium.mp3
 

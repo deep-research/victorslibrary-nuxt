@@ -11,7 +11,7 @@ recordings:
   - title: DroneTheist [Coda entitled Desire and Pain]
     type: Recording
     style: Drone
-    length: 15:16
+    length: "15:16"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/DroneTheist+%5BCoda+entitled+Desire+and+Pain%5D/DroneTheist+%5BCoda+entitled+Desire+and+Pain%5D.mp3
 

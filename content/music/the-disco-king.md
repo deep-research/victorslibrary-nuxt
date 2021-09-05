@@ -11,7 +11,7 @@ recordings:
   - title: The Disco King
     type: Recording
     style: Rock
-    length: 2:37
+    length: "2:37"
     released: November 9 2019
     link: https://victorslibrary.s3.amazonaws.com/music/The+Disco+King/The+Disco+King.mp3
 

@@ -13,7 +13,7 @@ recordings:
   - title: The Weirdness of the Night
     type: Recording
     style: Doom Metal
-    length: 0:55
+    length: "0:55"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/The+Wierdness+of+the+Night/The+Weirdness+of+the+Night.mp3
 

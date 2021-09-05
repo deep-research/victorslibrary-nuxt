@@ -13,7 +13,7 @@ recordings:
   - title: What For?
     type: Recording
     style: Hard Rock
-    length: 0:55
+    length: "0:55"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/What+For/What+For.mp3
 

@@ -11,7 +11,7 @@ recordings:
   - title: The Ceremony of Forgiveness
     type: Recording
     style: Rock
-    length: 3:10
+    length: "3:10"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/The+Ceremony+of+Forgiveness/The+Ceremony+of+Forgiveness.mp3
 

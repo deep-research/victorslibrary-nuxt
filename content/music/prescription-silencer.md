@@ -11,7 +11,7 @@ recordings:
   - title: Prescription Silencer
     type: Recording
     style: Hard Rock
-    length: 3:33
+    length: "3:33"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Prescription+Silencer/Prescription+Silencer.mp3
 

@@ -11,7 +11,7 @@ recordings:
   - title: Pure Misery
     type: Demo
     style: Rock
-    length: 6:42
+    length: "6:42"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/Pure+Misery.mp3
 

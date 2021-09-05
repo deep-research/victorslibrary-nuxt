@@ -12,7 +12,7 @@ recordings:
   - title: Terra Incognita
     type: Recording
     style: Electronic
-    length: 1:18
+    length: "1:18"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Terra+Incognita/Terra+Incognita.mp3
 

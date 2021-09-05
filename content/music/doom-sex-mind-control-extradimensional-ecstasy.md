@@ -11,7 +11,7 @@ recordings:
   - title: Doom Sex (Mind Control Extradimensional Ecstasy)
     type: Recording
     style: Doom Metal
-    length: 5:29
+    length: "5:29"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Doom+Sex+(Mind+Control+Extradimensional+Ecstasy)/Doom+Sex+(Mind+Control+Extradimensional+Ecstasy).mp3
 

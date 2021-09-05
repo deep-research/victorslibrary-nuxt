@@ -11,7 +11,7 @@ recordings:
   - title: Jonesian
     type: Recording
     style: Electronic
-    length: 3:55
+    length: "3:55"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Jonesian/Jonesian.mp3
 

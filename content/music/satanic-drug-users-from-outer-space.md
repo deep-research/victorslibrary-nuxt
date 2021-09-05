@@ -11,7 +11,7 @@ recordings:
   - title: Satanic Drug Users from Outer Space
     type: Recording
     style: Hard Rock
-    length: 2:48
+    length: "2:48"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Satanic+Drug+Users+from+Outer+Space/Satanic+Drug+Users+from+Outer+Space.mp3
 

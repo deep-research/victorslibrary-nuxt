@@ -11,7 +11,7 @@ recordings:
   - title: The Groove Gestapo
     type: Recording
     style: Electronic
-    length: 2:55
+    length: "2:55"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/The+Groove+Gestapo/The+Groove+Gestapo.mp3
 

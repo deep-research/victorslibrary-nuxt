@@ -7,13 +7,13 @@ explicit: false
 
 description: This song tells a sinister tale about my secret workings with one of the most extreme forms of magical rites.
 
-recordings:
-  - title: 
-    type: 
-    style: 
-    length: 
-    released: 
-    link: 
+# recordings:
+#   - title: 
+#     type: 
+#     style: 
+#     length: 
+#     released: 
+#     link: 
 
 lyrics: |
   We traveled to the temple

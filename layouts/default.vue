@@ -5,6 +5,11 @@
 </template>
 
 <style>
+/* @import '~/assets/style/boilerplate.css' */
+#__layout {
+  margin: 50px;
+}
+
 /* html {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, 'Helvetica Neue', Arial, sans-serif;

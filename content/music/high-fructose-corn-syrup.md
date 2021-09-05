@@ -11,7 +11,7 @@ recordings:
   - title: High Fructose Corn Syrup
     type: Demo
     style: Rock
-    length: 2:54
+    length: "2:54"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/High+Fructose+Corn+Syrup.mp3
 

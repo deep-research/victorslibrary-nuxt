@@ -12,7 +12,7 @@ recordings:
   - title: The Truth About This World
     type: Demo
     style: Rock
-    length: 2:04
+    length: "2:04"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/The+Truth+About+this+World.mp3
 

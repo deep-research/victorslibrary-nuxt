@@ -12,7 +12,7 @@ recordings:
   - title: This Wicked Realm
     type: Recording
     style: Doom Metal
-    length: 5:55
+    length: "5:55"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/This+Wicked+Realm/This+Wicked+Realm.mp3
 

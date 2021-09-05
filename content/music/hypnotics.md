@@ -11,7 +11,7 @@ recordings:
   - title: 
     type: Hypnotics
     style: Doom Metal
-    length: 6:48
+    length: "6:48"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/Hypnotics.mp3
 

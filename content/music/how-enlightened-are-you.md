@@ -11,7 +11,7 @@ recordings:
   - title: How Enlightened Are You?
     type: Recording
     style: Electronic
-    length: 2:41
+    length: "2:41"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/How+Enlightened+Are+You/How+Enlightened+Are+You.mp3
 

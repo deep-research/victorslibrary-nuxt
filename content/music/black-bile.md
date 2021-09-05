@@ -11,7 +11,7 @@ recordings:
   - title: Black Bile
     type: Recording
     style: Ballad
-    length: 2:18
+    length: "2:18"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Black+Bile/Black+Bile.mp3
 

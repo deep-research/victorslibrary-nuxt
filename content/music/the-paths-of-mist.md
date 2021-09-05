@@ -14,7 +14,7 @@ recordings:
   - title: The Paths of Mist
     type: Recording
     style: Doom Metal
-    length: 5:22
+    length: "5:22"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/The+Paths+of+Mist/The+Paths+of+Mist.mp3
 

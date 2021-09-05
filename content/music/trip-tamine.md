@@ -15,7 +15,7 @@ recordings:
   - title: Trip-tamine
     type: Video
     style: Electronic
-    length: 2:43
+    length: "2:43"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Trip-tamine/Trip-tamine.mp4
 

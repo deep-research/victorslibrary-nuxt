@@ -11,7 +11,7 @@ recordings:
   - title: Suicidal Shaman
     type: Recording
     style: Hard Rock
-    length: 2:37
+    length: "2:37"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Suicidal+Shaman/Suicidal+Shaman.mp3
 

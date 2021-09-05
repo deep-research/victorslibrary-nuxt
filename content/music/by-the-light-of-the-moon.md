@@ -12,7 +12,7 @@ recordings:
   - title: By the Light of the Moon
     type: Demo
     style: Rock
-    length: 1:22
+    length: "1:22"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/By+the+Light+of+the+Moon.mp3
 

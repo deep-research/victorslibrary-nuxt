@@ -11,19 +11,19 @@ recordings:
   - title: Follow the Light (Copyright Version)
     type: Recording
     style: Doom Metal
-    length: 10:42
+    length: "10:42"
     released: May 3 2021
     link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/Follow+the+Light/Follow+the+Light+(Copyright+Version).mp3
   - title: Follow the Light (Ambient Version)
     type: Recording
     style: Doom Metal
-    length: 7:32
+    length: "7:32"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Follow+the+Light/Follow+the+Light+(Ambient+Version).mp3
   - title: Follow the Light (High School Version)
     type: Recording
     style: Doom Metal
-    length: 9:20
+    length: "9:20"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Follow+the+Light/Follow+the+Light+(High+School+Version).mp3
 

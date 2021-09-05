@@ -11,7 +11,7 @@ recordings:
   - title: The Wrath of God
     type: Recording
     style: Doom Metal
-    length: 19:58
+    length: "19:58"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/The+Wrath+of+God/The+Wrath+of+God+%7BNihilism+Remix%7D.mp3
 

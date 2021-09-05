@@ -12,7 +12,7 @@ recordings:
   - title: The Life of a Pilgrim
     type: Recording
     style: Electronic
-    length: 2:37
+    length: "2:37"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/The+Life+of+a+Pilgrim/The+Life+of+a+Pilgrim.mp3
 

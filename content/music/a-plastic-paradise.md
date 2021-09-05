@@ -12,7 +12,7 @@ recordings:
   - title: A Plastic Paradise
     type: Recording
     style: Hard Rock
-    length: 4:54
+    length: "4:54"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/A+Plastic+Paradise/A+Plastic+Paradise.mp3
 

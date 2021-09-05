@@ -11,7 +11,7 @@ recordings:
   - title: Drawing Down the Moon (The Art of the Cunning)
     type: Recording
     style: Electronic
-    length: 1:48
+    length: "1:48"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Drawing+Down+the+Moon+(The+Art+of+the+Cunning)/Drawing+Down+the+Moon+(The+Art+of+the+Cunning).mp3
 

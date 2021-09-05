@@ -11,7 +11,7 @@ recordings:
   - title: From Path to Portal
     type: Demo
     style: Rock
-    length: 3:09
+    length: "3:09"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/From+Path+to+Portal.mp3
 

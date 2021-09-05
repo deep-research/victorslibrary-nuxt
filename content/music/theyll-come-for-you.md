@@ -14,19 +14,19 @@ recordings:
   - title: They’ll Come For You (Mermaid Version)
     type: Recording
     style: Rock
-    length: 5:15
+    length: "5:15"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Theyll+Come+For+You/Theyll+Come+For+You+(Mermaid+Version).mp3
   - title: They’ll Come For You (Pilgrimage Version)
     type: Recording
     style: Rock
-    length: 5:07
+    length: "5:07"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Theyll+Come+For+You/Theyll+Come+For+You+(Pilgrimage+Version).mp3
   - title: They’ll Come For You (Live at the Sacred Forest)
     type: Live
     style: Rock
-    length: 5:18
+    length: "5:18"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Theyll+Come+For+You/Theyll+Come+For+You+(Live+at+the+Sacred+Forest).mp3
 

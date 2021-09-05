@@ -11,7 +11,7 @@ recordings:
   - title: The Exploratory Committee on Plant-based Liberation
     type: Demo
     style: Rock
-    length: 5:00
+    length: "5:00"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/The+Exploratory+Committee+on+Plant-based+Liberation.mp3
 

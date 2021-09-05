@@ -11,7 +11,7 @@ recordings:
   - title: Distorted Dreams
     type: Demo
     style: Doom Metal
-    length: 6:54
+    length: "6:54"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/Distorted+Dreams.mp3
 

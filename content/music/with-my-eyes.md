@@ -12,7 +12,7 @@ recordings:
   - title: With My Eyes
     type: Recording
     style: Hard Rock 
-    length: 5:38
+    length: "5:38"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/With+My+Eyes/With+My+Eyes.mp3
 

@@ -11,7 +11,7 @@ recordings:
   - title: Song for a Friend
     type: Recording
     style: Ballad
-    length: 4:59
+    length: "4:59"
     released: May 9 2021
     link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/Song+For+A+Friend/Song+For+A+Friend.mp3
 

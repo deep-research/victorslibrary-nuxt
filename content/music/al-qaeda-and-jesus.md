@@ -14,13 +14,13 @@ recordings:
   - title: Al Qaeda and Jesus
     type: Recording
     style: Hard Rock
-    length: 3:22
+    length: "3:22"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Al+Qaeda+and+Jesus/Al+Qaeda+and+Jesus.mp3
   - title: Al Qaeda and Jesus (Clean Edit)
     type: Recording
     style: Hard Rock
-    length: 3:18
+    length: "3:18"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Al+Qaeda+and+Jesus/Al+Qaeda+and+Jesus+(Clean+Edit).mp3
 

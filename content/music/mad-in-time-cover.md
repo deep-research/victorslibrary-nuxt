@@ -12,7 +12,7 @@ recordings:
   - title: Mad in Time (Cover)
     type: Demo
     style: Rock
-    length: 2:28
+    length: "2:28"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/Mad+in+Time.mp3
 

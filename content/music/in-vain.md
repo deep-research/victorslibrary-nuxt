@@ -14,7 +14,7 @@ recordings:
   - title: In Vain...
     type: Recording
     style: Doom Metal
-    length: 8:27
+    length: "8:27"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/In+Vain.../In+Vain....mp3
 
