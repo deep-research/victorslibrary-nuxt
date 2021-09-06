@@ -1,7 +1,7 @@
 ---
 title: Reenchantment Timeline
 author: Victor Fisher
-date: September 16, 2019
+update: September 6, 2021
 ---
 
 ### 2006

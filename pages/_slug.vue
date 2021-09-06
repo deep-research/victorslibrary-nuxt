@@ -4,6 +4,10 @@
       <h1>Article: {{ article.title }}</h1>
       <p><nuxt-link to="/">Home Page</nuxt-link></p>
       <br />
+      <div v-if="article.author">Author: {{ article.author }}</div>
+      <div v-if="article.date">Published: {{ article.date }}</div>
+      <div v-if="article.update">Updated: {{ article.update }}</div>
+
       <nuxt-content :document="article" />
     </div>
     <div v-else-if="article.dir == '/music'">

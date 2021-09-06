@@ -1,6 +1,7 @@
 ---
 title: Related Projects
 author: Victor Fisher
+update: September 6, 2021
 ---
 
 This is a list of some projects that are related to my musical work in Reenchantment.

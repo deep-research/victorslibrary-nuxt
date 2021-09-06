@@ -2,7 +2,7 @@
 title: Occult Research
 author: Victor Fisher
 date: September 11, 2019
-update: January 13, 2020
+update: September 6, 2021
 ---
 
 Here are some of my favorite sources, and the research topics that I am are currently looking into.
