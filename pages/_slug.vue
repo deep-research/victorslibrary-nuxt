@@ -4,9 +4,12 @@
       <h1>Article: {{ article.title }}</h1>
       <p><nuxt-link to="/">Home Page</nuxt-link></p>
       <br />
+
+      <div style="font-size: 120%">
       <div v-if="article.author">Author: {{ article.author }}</div>
       <div v-if="article.date">Published: {{ article.date }}</div>
       <div v-if="article.update">Updated: {{ article.update }}</div>
+      </div>
 
       <nuxt-content :document="article" />
     </div>
@@ -16,7 +19,7 @@
       <p><nuxt-link to="/">Home Page</nuxt-link></p>
       <br />
 
-      <div v-if="article.band" style="font-size: 125%">By {{ article.band }}
+      <div v-if="article.band" style="font-size: 120%">By {{ article.band }}
         <span v-if="article.authors">({{ article.authors.join(', ')}})</span>
       </div>
 
