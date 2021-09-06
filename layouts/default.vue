@@ -7,10 +7,7 @@
 <style>
 /* @import '~/assets/style/boilerplate.css' */
 #__layout {
-  margin: auto;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  max-width: 1000px;
+  margin: 50px;
 }
 
 @media only screen and (max-width: 480px) {
