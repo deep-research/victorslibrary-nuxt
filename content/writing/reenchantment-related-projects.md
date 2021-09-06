@@ -1,5 +1,5 @@
 ---
-title: Related Projects
+title: Reenchantment Related Projects
 author: Victor Fisher
 update: September 6, 2021
 ---
