@@ -8,4 +8,4 @@ Abstract: There is a duality in life between the rational mind and the emotional
 
 Subject: Music, Religion
 
-<a href="/the-philosophical-and-spiritual-value-of-music.pdf" target="_blank">Download</a>
+<a href="/the-philosophical-and-spiritual-value-of-music.pdf" target="_blank" rel="noreferrer noopener">Download</a>
