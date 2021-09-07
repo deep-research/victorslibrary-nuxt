@@ -1,5 +1,5 @@
 ---
-title: The Philosophical and Spiritual Value of Music
+title: The Philosophical and Spiritual Value of Music (Research Paper)
 author: Victor Fisher
 date: December 23, 2019
 update: September 7, 2021
