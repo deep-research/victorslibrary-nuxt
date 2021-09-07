@@ -1,5 +1,5 @@
 ---
-title: The Ritual Review By She Likes It Heavy
+title: The Ritual Review By She Likes It Heavy (Positive)
 author: DJ Prajmetal
 date: November 5, 2019
 update: September 7, 2021
