@@ -1,7 +1,7 @@
 ---
 title: Mad in Time (Cover)
 band: Reenchantment
-authors: ["Victor Fisher", "Olivia Wallace"]
+authors: ["Olivia Wallace", "Victor Fisher"]
 type: Song
 explicit: false
 

@@ -14,7 +14,7 @@ update: September 6, 2021
 -   After getting into Slayer, Melechesh and Amon Amarth, I was inspired to discover what the heaviest possible music is. This lead to an intense interest in doom metal and black metal.
 -   I starting writing a doom metal and psychedelic rock live set.
 -   David and I participated in a short lived rock band called *Lamp*.
--   I started a band called *[Shroud of Delirium](https://strangepeopleinpain.bandcamp.com/album/the-former-shroud-of-delirium)* with David on drums. Aaron became the bassist shortly afterwards by playing a middle eastern sounding scale that seemed very impressive at the time.
+-   I started a band called *[Shroud of Delirium](https://strangepeopleinpain.bandcamp.com/album/the-former-shroud-of-delirium)* with David Sommer on drums. Aaron Schreiber became the bassist shortly afterwards by playing a middle eastern sounding scale that seemed very impressive at the time.
 -   Our band was mostly playing doom metal songs with a black metal influence such as Follow the Light, The Ritual, and Hypnotics.
 -   We played live at a hookah bar called *Swingstate* that is no longer in existence.
 

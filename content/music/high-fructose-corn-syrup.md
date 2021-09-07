@@ -1,7 +1,7 @@
 ---
 title: High Fructose Corn Syrup
 band: Reenchantment
-authors: [" Victor Fisher"]
+authors: ["Victor Fisher"]
 type: Song
 explicit: false
 

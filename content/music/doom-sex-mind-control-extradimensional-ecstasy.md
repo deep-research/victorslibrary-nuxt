@@ -1,7 +1,7 @@
 ---
 title: Doom Sex (Mind Control Extradimensional Ecstasy)
 band: Reenchantment
-authors: ["Victor Fisher"]
+authors: ["Victor Fisher", "David Sommer"]
 type: Song
 explicit: false
 

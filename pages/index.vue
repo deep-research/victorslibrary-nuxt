@@ -1,6 +1,9 @@
 <template>
   <div>
-    <h1>Victor's Library</h1>
+    <h1>Victor's Library<br />
+        <span style="font-size: 24px">(Experimental Version)
+        </span>
+    </h1>
     <h2>Writing</h2>
     <div v-for="article in data.articles" :key="article.slug">
       <h2><nuxt-link :to="article.slug">{{ article.title }}</nuxt-link></h2>

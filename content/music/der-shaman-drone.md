@@ -1,7 +1,7 @@
 ---
 title: derShamanDrone
 band: Reenchantment
-authors: [""]
+authors: ["Victor Fisher"]
 type: Song
 explicit: false
 
