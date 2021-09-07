@@ -7,6 +7,7 @@ explicit: false
 
 description: |
   This song describes the symptoms that one may encounter when facing a loss of meaning in their life. It was recorded with the use of traditional instrumentation.
+  
 recordings:
   - title: Black Bile
     type: Recording
