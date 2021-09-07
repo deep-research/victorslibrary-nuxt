@@ -1,0 +1,11 @@
+---
+title: The Philosophical and Spiritual Value of Music
+author: Victor Fisher
+date: December 23, 2019
+update: September 7, 2021
+---
+Abstract: There is a duality in life between the rational mind and the emotional mind. This paper proposes a model for mediating between the two that would be helpful in explaining the philosophical meaning of music and for deriving a values system thereof. It also explores the spiritual dimensions of music that offer even more evidence for the accuracy of this model.
+
+Subject: Music, Religion
+
+[Download](/the-philosophical-and-spiritual-value-of-music.pdf)
