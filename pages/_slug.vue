@@ -81,15 +81,6 @@ export default {
     return {
       article
     }
-  },
-  methods:{
-   nameWithComma(this: any, index: number){
-     if(index!==this.names.length-1){
-       return `${this.names[index]},`;
-     }else{
-       return this.names[index];
-     }
-   }
   }
 }
 </script>
