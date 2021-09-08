@@ -1,5 +1,5 @@
 ---
-title: The Spirit of the Band
+title: The Legend of Reenchantment
 author: Victor Fisher
 date: September 29 2019
 update: September 7, 2021

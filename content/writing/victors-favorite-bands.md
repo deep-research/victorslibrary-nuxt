@@ -1,5 +1,5 @@
 ---
-title: My Favorite Bands
+title: Victor's Favorite Bands
 author: Victor Fisher
 date: September 23, 2019
 update: September 7, 2021
