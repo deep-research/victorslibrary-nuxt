@@ -93,15 +93,3 @@ export default {
   }
 }
 </script>
-
-<style scoped>
-video {
-  max-width: 480px;
-}
-
-@media only screen and (max-width: 480px) {
-  video {
-    width: 100%;
-  }
-}
-</style>

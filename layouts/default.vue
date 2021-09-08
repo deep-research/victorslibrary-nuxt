@@ -7,7 +7,18 @@
 </template>
 
 <style>
-/* @import '~/assets/style/boilerplate.css' */
+/* @import '~/assets/style/style.css' */
+
+video {
+  max-width: 480px;
+}
+
+@media only screen and (max-width: 480px) {
+  video {
+    width: 100%;
+  }
+}
+
 #__layout {
   margin: 50px;
 }
@@ -18,6 +29,7 @@
   }
 }
 
+/* Default Style */
 /* html {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, 'Helvetica Neue', Arial, sans-serif;
