@@ -2,6 +2,7 @@
   <div>
     <div v-if="article.dir == '/writing'">
       <h1>Article: {{ article.title }}</h1>
+      
       <p><nuxt-link to="/">Home Page</nuxt-link></p>
       <br />
 
