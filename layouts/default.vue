@@ -1,6 +1,8 @@
 <template>
   <div>
     <Nuxt />
+    <br>
+    © {{new Date().getFullYear()}} Victor Fisher
   </div>
 </template>
 
