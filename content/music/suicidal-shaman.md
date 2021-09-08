@@ -1,6 +1,6 @@
 ---
 title: Suicidal Shaman
-band: By Reenchantment
+band: Reenchantment
 authors: ["Victor Fisher"]
 type: Song
 explicit: true
