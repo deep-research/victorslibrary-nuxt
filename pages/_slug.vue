@@ -2,13 +2,14 @@
   <div>
     <div v-if="article.dir == '/writing'">
       <h1>Article: {{ article.title }}</h1>
+
       <p><nuxt-link to="/">Home Page</nuxt-link></p>
       <br />
 
       <div style="font-size: 120%">
-      <div v-if="article.author">Author: {{ article.author }}</div>
-      <div v-if="article.date">Published: {{ article.date }}</div>
-      <div v-if="article.update">Updated: {{ article.update }}</div>
+        <div v-if="article.author">Author: {{ article.author }}</div>
+        <div v-if="article.date">Published: {{ article.date }}</div>
+        <div v-if="article.update">Updated: {{ article.update }}</div>
       </div>
 
       <nuxt-content :document="article" />
