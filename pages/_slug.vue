@@ -68,19 +68,14 @@
 import articleImageVue from '~/components/articleImage.vue'
 export default {
   async asyncData ({ $content, params, error }: { $content: any, app: any, params: any, error: any }) {
-    let [article, songs] = await Promise.all([
-      $content('/', { deep: false }).where({slug: params.slug}).fetch(),
-      $content('/reenchantment-songs', { deep: true }).where({slug: params.slug}).fetch()
-    ])
+    let article = await $content('/', { deep: true }).where({slug: params.slug}).fetch()
 
-    article = article.concat(songs)
     article = article[0]
 
-    console.log(article)
-    
     if (!article) {
       return error({ statusCode: 404, message: 'Article not found' })
     }
+
     
     return {
       article

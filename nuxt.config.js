@@ -24,6 +24,12 @@ export default {
 
   dev: process.env.NODE_ENV !== 'production',
 
+  hooks: {
+    'content:file:beforeInsert': (file) => {
+      file.path = "/"
+    }
+  },
+
   // serverMiddleware: [
   //   '~/middleware/redirect.js'
   // ],
