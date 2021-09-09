@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div v-if="article.dir == '/writing'">
+    <div v-if="article.dir == '/'">
       <h1>Article: {{ article.title }}</h1>
 
       <p><nuxt-link to="/">Home Page</nuxt-link></p>
@@ -14,7 +14,7 @@
 
       <nuxt-content :document="article" />
     </div>
-    <div v-else-if="article.dir == '/music'">
+    <div v-else-if="article.dir == '/reenchantment-songs'">
       <h1 v-if="article.title">Song: {{ article.title }}</h1>
 
       <p><nuxt-link to="/">Home Page</nuxt-link></p>
@@ -65,15 +65,18 @@
 </template>
 
 <script lang="ts">
+import articleImageVue from '~/components/articleImage.vue'
 export default {
   async asyncData ({ $content, params, error }: { $content: any, app: any, params: any, error: any }) {
     let [article, songs] = await Promise.all([
-      $content('/writing', { deep: true }).where({slug: params.slug}).fetch(),
-      $content('/music', { deep: true }).where({slug: params.slug}).fetch()
+      $content('/', { deep: false }).where({slug: params.slug}).fetch(),
+      $content('/reenchantment-songs', { deep: true }).where({slug: params.slug}).fetch()
     ])
 
     article = article.concat(songs)
     article = article[0]
+
+    console.log(article)
     
     if (!article) {
       return error({ statusCode: 404, message: 'Article not found' })
