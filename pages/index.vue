@@ -20,8 +20,8 @@
 export default {
   async asyncData ({ $content, error }: {$content: any, error: any })  {
     let [articles, songs] = await Promise.all([
-      $content('/writing', { deep: true }).fetch(),
-      $content('/music', { deep: true }).fetch()
+      $content('/', { deep: false }).fetch(),
+      $content('/reenchantment-songs', { deep: true }).fetch()
     ])
 
     let data = {
