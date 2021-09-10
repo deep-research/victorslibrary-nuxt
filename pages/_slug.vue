@@ -1,7 +1,7 @@
 <template>
   <div>
     <div v-if="article.dir == '/'">
-      <h1>Article: {{ article.title }}</h1>
+      <h1 v-if="article.title">Article: {{ article.title }}</h1>
 
       <p><nuxt-link to="/">Home Page</nuxt-link></p>
       <br />
@@ -65,7 +65,6 @@
 </template>
 
 <script lang="ts">
-import articleImageVue from '~/components/articleImage.vue'
 export default {
   async asyncData ({ $content, params, error }: { $content: any, app: any, params: any, error: any }) {
     let article = await $content('/', { deep: true }).where({slug: params.slug}).fetch()
