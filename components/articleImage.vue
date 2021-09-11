@@ -6,7 +6,9 @@
 </template>
 
 <script lang="ts">
-export default {
+import Vue from 'vue';
+
+export default Vue.extend({
   props: {
     src: {
       type: String,
@@ -22,7 +24,7 @@ export default {
     }    
   },
   methods: {
-    imgSrc() {
+    imgSrc(): any {
       try {
         return require(`~/assets/images/${this.src}`)
       } catch (error) {
@@ -30,7 +32,7 @@ export default {
       }
     }
   }
-}
+})
 </script>
 
 <style scoped>
