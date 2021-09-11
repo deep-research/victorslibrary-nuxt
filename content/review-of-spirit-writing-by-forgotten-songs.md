@@ -1,5 +1,5 @@
 ---
-title: "Review of Spirit Writing by Forgotten Songs (Positive)"
+title: Review of Spirit Writing by Forgotten Songs (Positive)
 author: D. Kelvin
 ---
 
