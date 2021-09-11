@@ -18,7 +18,7 @@
 
 <script lang="ts">
 export default {
-  async asyncData ({ $content, error }: {$content: any, error: any })  {
+  async asyncData ({ $content }: {$content: any, error: any })  {
     let articles = await $content('/', { deep: true }).fetch()
 
     return {
