@@ -6,12 +6,12 @@
     </h1>
     <h2>Writing</h2>
     <div v-for="article in articles"  :key="'article/' + article.slug">
-      <h2 v-if="article.dir == '/'"><nuxt-link :to="article.slug">{{ article.title }}</nuxt-link></h2>
+      <h2 v-if="article.type == 'Article'"><nuxt-link :to="article.slug">{{ article.title }}</nuxt-link></h2>
     </div>
 
     <h2>Songs</h2>
     <div v-for="article in articles" :key="'song/'+ article.slug">
-      <h2 v-if="article.dir == '/reenchantment-songs'"><nuxt-link :to="article.slug">{{ article.title }}</nuxt-link></h2>
+      <h2 v-if="article.type == 'Song'"><nuxt-link :to="article.slug">{{ article.title }}</nuxt-link></h2>
     </div>
   </div>
 </template>

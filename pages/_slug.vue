@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div v-if="article.dir == '/'">
+    <div v-if="article.type == 'Article'">
       <h1 v-if="article.title">Article: {{ article.title }}</h1>
 
       <p><nuxt-link to="/">Home Page</nuxt-link></p>
@@ -14,7 +14,7 @@
 
       <nuxt-content :document="article" />
     </div>
-    <div v-else-if="article.dir == '/reenchantment-songs'">
+    <div v-else-if="article.type == 'Song'">
       <h1 v-if="article.title">Song: {{ article.title }}</h1>
 
       <p><nuxt-link to="/">Home Page</nuxt-link></p>
