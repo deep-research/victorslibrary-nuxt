@@ -1,6 +1,7 @@
 ---
 title: Review of Spirit Writing by Lords of Metal (Negative)
 author: Marcel H.
+type: Article
 ---
 
 <br />

@@ -1,6 +1,7 @@
 ---
 title: A Guide to Occult Research
 author: Victor Fisher
+type: Article
 date: September 11, 2019
 update: September 6, 2021
 ---

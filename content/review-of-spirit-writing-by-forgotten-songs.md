@@ -1,6 +1,7 @@
 ---
 title: Review of Spirit Writing by Forgotten Songs (Positive)
 author: D. Kelvin
+type: Article
 ---
 
 <br />
