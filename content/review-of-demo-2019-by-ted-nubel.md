@@ -25,4 +25,3 @@ I end up running into Victor every couple of years -- sometimes physically, some
 **You can find the demo here:**
 1. [They'll Come For You](/theyll-come-for-you/)
 2. [The Ritual](/the-ritual/)
-3. 
