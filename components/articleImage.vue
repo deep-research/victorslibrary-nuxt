@@ -20,7 +20,7 @@ export default Vue.extend({
     },
     caption: {
       type: String,
-      required: true
+      required: false
     }    
   },
   methods: {
