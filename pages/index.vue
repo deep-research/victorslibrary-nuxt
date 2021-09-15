@@ -2,7 +2,7 @@
   <div>
     <h1>Victor's Library<br />
         <span style="font-size: 24px">(Experimental Version)
-        </span>
+        </span>    
     </h1>
     <h2>Writing</h2>
     <div v-for="article in articles"  :key="'article/' + article.slug">

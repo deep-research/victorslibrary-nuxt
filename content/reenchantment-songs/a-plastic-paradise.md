@@ -64,4 +64,6 @@ lyrics: |
   Ah
   Kaka kapata, kakakaka
   Ah
+
+  <article-image src="shroud-of-delirium-animation.gif" alt="The Former Shroud of Delirium" caption="The Former Shroud of Delirium"></article-image>
 ---

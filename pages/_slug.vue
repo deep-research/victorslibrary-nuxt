@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <client-only>
     <div v-if="article.type == 'Article'">
       <h1 v-if="article.title">Article: {{ article.title }}</h1>
 
@@ -52,19 +52,22 @@
               <source :src="recording.link" type="video/mp4">
               Your browser does not support the video tag.
             </video>
-          </p>          
+          </p>
         </div>
       </div>
 
       <div v-if="article.lyrics">
         <h2>Lyrics</h2>
-        <p v-html="$md.render(String(article.lyrics))"></p>
+        <v-runtime-template :template="'<div>'+$md.render(article.lyrics)+'</div>'"></v-runtime-template>
       </div>
     </div>
-  </div>
+  </client-only>
 </template>
 
 <script lang="ts">
+import VRuntimeTemplate from "v-runtime-template";
+import articleImage from '../components/articleImage.vue'
+
 export default {
   async asyncData ({ $content, params, error }: { $content: any, app: any, params: any, error: any }) {
     let article = await $content('/', { deep: true }).where({slug: params.slug}).fetch()
@@ -79,6 +82,10 @@ export default {
     return {
       article
     }
+  },
+  components: {
+    VRuntimeTemplate,
+    articleImage
   }
 }
 </script>
