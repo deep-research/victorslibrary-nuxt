@@ -48,6 +48,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    { src: '~/plugins/helpers' },
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -78,6 +79,8 @@ export default {
     preset: 'default',
     linkify: true,
     breaks: true,
+    typographer: true,
+    html: true
     // use: [
     //   'markdown-it-div',
     //   'markdown-it-attrs'
@@ -99,5 +102,8 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    extend(config, { isDev, isClient }) {
+      config.resolve.alias["vue"] = "vue/dist/vue.common"
+    }    
   }
 }

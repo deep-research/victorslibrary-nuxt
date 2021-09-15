@@ -2,7 +2,7 @@
   <div>
     <h1>Victor's Library<br />
         <span style="font-size: 24px">(Experimental Version)
-        </span>
+        </span>    
     </h1>
     <h2>Writing</h2>
     <div v-for="article in articles"  :key="'article/' + article.slug">
@@ -19,7 +19,7 @@
 <script lang="ts">
 export default {
   async asyncData ({ $content }: {$content: any })  {
-    let articles = await $content('/', { deep: true }).fetch()
+    let articles = await $content('/', { deep: true }).sortBy('title').fetch()
 
     return {
       articles
