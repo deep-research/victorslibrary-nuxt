@@ -1,6 +1,7 @@
 ---
 title: Why We Need Despair
 author: Victor Fisher
+type: Article
 date: March 7, 2013
 update: September 6, 2021
 ---

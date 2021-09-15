@@ -1,6 +1,7 @@
 ---
 title: My Political Warning to America From 2013
 author: Victor Fisher
+type: Article
 date: March 28, 2013
 update: September 6, 2021
 ---
