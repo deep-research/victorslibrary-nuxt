@@ -58,7 +58,9 @@
 
       <div v-if="article.lyrics">
         <h2>Lyrics</h2>
-        <v-runtime-template :template="'<div>'+$md.render(article.lyrics)+'</div>'"></v-runtime-template>
+        <v-runtime-template
+          :template="'<div>'+$md.render(article.lyrics)+'</div>'">
+        </v-runtime-template>
       </div>
     </div>
   </client-only>
@@ -66,7 +68,7 @@
 
 <script lang="ts">
 import VRuntimeTemplate from "v-runtime-template";
-import articleImage from '../components/articleImage.vue'
+// import articleImage from '../components/articleImage.vue'
 
 export default {
   async asyncData ({ $content, params, error }: { $content: any, app: any, params: any, error: any }) {
@@ -84,8 +86,7 @@ export default {
     }
   },
   components: {
-    VRuntimeTemplate,
-    articleImage
+    VRuntimeTemplate
   }
 }
 </script>
