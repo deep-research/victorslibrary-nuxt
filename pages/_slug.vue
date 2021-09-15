@@ -86,7 +86,8 @@ export default {
     }
   },
   components: {
-    VRuntimeTemplate
+    VRuntimeTemplate,
+    // articleImage
   }
 }
 </script>
