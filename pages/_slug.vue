@@ -59,7 +59,7 @@
       <div v-if="article.lyrics">
         <h2>Lyrics</h2>
         <v-runtime-template
-          :template="'<div>'+$md.render(article.lyrics)+'</div>'">
+          :template="addDiv($md.render(article.lyrics))">
         </v-runtime-template>
       </div>
     </div>
@@ -80,14 +80,12 @@ export default {
       return error({ statusCode: 404, message: 'Article not found' })
     }
 
-    
     return {
       article
     }
   },
   components: {
-    VRuntimeTemplate,
-    // articleImage
+    VRuntimeTemplate
   }
 }
 </script>
