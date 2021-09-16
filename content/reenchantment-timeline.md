@@ -3,7 +3,6 @@ title: Reenchantment Timeline
 author: Victor Fisher
 type: Article
 update: September 6, 2021
-myarray: ["Victor", "David", "Bennet", "Aaron", "Trump"]
 ---
 
 ### 2006
