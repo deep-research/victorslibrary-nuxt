@@ -59,7 +59,7 @@
       <div v-if="article.lyrics">
         <h2>Lyrics</h2>
         <v-runtime-template
-          :template="addDiv($md.render(article.lyrics))">
+          :template="$addDiv($md.render(article.lyrics))">
         </v-runtime-template>
       </div>
     </div>
@@ -67,7 +67,7 @@
 </template>
 
 <script lang="ts">
-import VRuntimeTemplate from "v-runtime-template";
+// Typescript Import Example:
 // import articleImage from '../components/articleImage.vue'
 
 export default {
@@ -83,9 +83,6 @@ export default {
     return {
       article
     }
-  },
-  components: {
-    VRuntimeTemplate
   }
 }
 </script>
