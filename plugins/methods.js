@@ -1,7 +1,9 @@
 // Global Function and Value Registration
 
 export default ({ app }, inject) => {
-  inject('addDiv', section => "<div>" + section + "</div>")
+  inject('addDiv', section => 
+    "<div>" + section + "</div>"
+  )
 }
 
 // Mixin Example:
