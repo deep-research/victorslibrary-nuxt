@@ -59,7 +59,7 @@
       <div v-if="article.lyrics">
         <h2>Lyrics</h2>
         <v-runtime-template
-          :template="$addDiv($md.render(article.lyrics))">
+          :template="$div($md.render(article.lyrics))">
         </v-runtime-template>
       </div>
     </div>
