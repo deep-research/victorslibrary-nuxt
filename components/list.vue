@@ -7,11 +7,11 @@
 <script>
 export default {
   props: {
-    array: Array,
+    list: Array,
   },
   methods: {
     sortedArray(){
-      return this.array.sort()
+      return this.list.sort()
     }
   }
 };
