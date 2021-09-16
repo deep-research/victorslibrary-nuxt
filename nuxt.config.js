@@ -48,7 +48,8 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    { src: '~/plugins/helpers' },
+    '~/plugins/methods',
+    '~/plugins/components'
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -104,6 +105,6 @@ export default {
   build: {
     extend(config, { isDev, isClient }) {
       config.resolve.alias["vue"] = "vue/dist/vue.common"
-    }    
+    }
   }
 }
