@@ -1,24 +1,35 @@
 <template>
   <div>
-     <component :is="$camelCase('mdx ' + article.slug)" />
+      <!-- <mdxPathInCamelCase /> -->
+      <component :is="name"></component>
   </div>
 </template>
 
 <script lang="ts">
-import Vue from 'vue'
-
-export default Vue.extend({
+export default {
   props: {
     title: String,
   },
   data () {
     return {
-      article: {}
+      article: {
+        path: ""
+      },
+      name: ""
     }
   },
   async fetch() {
     let article: any = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
     this.article = article[0]
+    
+    this.name = this.$camelCase (
+      'mdx ' +
+      String(this.article.path)
+        .replace(
+          /[^a-zA-Z0-9]/g,
+          ' '
+      )
+    )
   }
-})
+}
 </script>
