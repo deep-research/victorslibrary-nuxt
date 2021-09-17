@@ -62,6 +62,8 @@
           :template="$div($md.render(article.lyrics))">
         </v-runtime-template>
       </div>
+
+      <nuxt-content :document="article" />
     </div>
   </client-only>
 </template>
