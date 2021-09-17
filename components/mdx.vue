@@ -6,7 +6,9 @@
 </template>
 
 <script lang="ts">
-export default {
+import Vue from 'vue'
+
+export default Vue.extend({
   props: {
     title: String,
   },
@@ -22,7 +24,7 @@ export default {
     let article: any = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
     this.article = article[0]
     
-    this.name = this.$camelCase (
+    this.name = Vue.prototype.$camelCase (
       'mdx ' +
       String(this.article.path)
         .replace(
@@ -31,5 +33,5 @@ export default {
       )
     )
   }
-}
+})
 </script>

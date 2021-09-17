@@ -50,7 +50,7 @@ export default {
   plugins: [
     '~/plugins/methods.js',
     '~/plugins/components.js',
-    '~/plugins/camelcase.js'
+    '~/plugins/camelcase.ts'
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
