@@ -1,7 +1,7 @@
 // Global Function and Value Registration
 
 export default ({ app }, inject) => {
-  inject('addDiv', section => 
+  inject('div', section => 
     "<div>" + section + "</div>"
   )
 }

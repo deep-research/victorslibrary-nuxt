@@ -7,11 +7,11 @@ update: September 7, 2021
 ---
 Around the year two thousand and six, a troubled artist known as Comrade Victor discovered a collection of sacred texts. The artifacts were found in a chamber on the very fringes of our reality. These priceless documents contained an extraordinary glimpse into the mysteries of rock music.
 
-<article-image src="comrade-victor.jpg" alt="Comrade Victor" caption="Comrade Victor suffers from a rare form of psychosis."></article-image>
+<pic src="comrade-victor.jpg" alt="Comrade Victor" caption="Comrade Victor suffers from a rare form of psychosis."></pic>
 
 Comrade Victor immediately began assembling a team of experts to help him disseminate this revolutionary information to the wider world. A secret bunker was chosen as the primary base of operations, and couple of nearby encampments were also used for ceremonial purposes. Some extraordinary results were obtained.
 
-<article-image src="shroud-backyard-show-black-and-white.jpg" alt="Shroud of Delirium Backyard Show" caption="Shroud of Delirium"></article-image>
+<pic src="shroud-backyard-show-black-and-white.jpg" alt="Shroud of Delirium Backyard Show" caption="Shroud of Delirium"></pic>
 
 After the initial experiments were concluded, Comrade Victor ventured forth and was able to take control of a local [radio station](https://wmxm.org/). Comrade Aaron took a far more radical approach by fleeing into the wilderness and joining a [commune](https://www.lamafoundation.org/).
 
