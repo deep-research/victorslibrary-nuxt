@@ -16,4 +16,5 @@ declare module 'vue/types/vue' {
   }
 }
 
+// Use Vue.extend and Vue.prototype.$camelCase in script
 Vue.prototype.$camelCase = (message: string) => camelCase(message)
