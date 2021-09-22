@@ -17,4 +17,5 @@ declare module 'vue/types/vue' {
 }
 
 // Use Vue.extend and Vue.prototype.$camelCase in script
+// See: https://typescript.nuxtjs.org/cookbook/plugins/
 Vue.prototype.$camelCase = (message: string) => camelCase(message)
