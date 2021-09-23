@@ -4,10 +4,10 @@
       <div v-if="article.type == 'Article'">
         <heading :title="article.title"></heading>
       </div>
-      <div v-if="article.type == 'Song'">
+      <div v-else-if="article.type == 'Song'">
         <song :title="article.title"></song>
       </div>
-      
+
       <nuxt-content :document="article" />
     </div>
   </client-only>

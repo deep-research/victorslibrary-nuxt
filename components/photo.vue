@@ -1,7 +1,7 @@
 <template>
   <div>
     <img :src="imgSrc()" :alt="alt" class="picture" />
-    <figcaption>{{ caption }}</figcaption>
+    <figcaption v-if="caption">{{ caption }}</figcaption>
   </div>
 </template>
 
@@ -36,12 +36,12 @@ export default Vue.extend({
 </script>
 
 <style scoped>
-img {
+.picture {
   max-width: 480px;
 }
 
 @media only screen and (max-width: 480px) {
-  img {
+  .picture {
     width: 100%;
   }
 }
