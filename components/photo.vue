@@ -24,7 +24,7 @@ export default Vue.extend({
     }    
   },
   methods: {
-    imgSrc(): any {
+    imgSrc(): String | null {
       try {
         return require(`~/assets/images/${this.src}`)
       } catch (error) {
