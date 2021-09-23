@@ -1,13 +1,13 @@
 <template>
     <span>
-        {{ get }}
+        {{ field }}
     </span>
 </template>
 
-<script>
+<script lang="ts">
 export default {
   props: {
-    get: String,
+    field: String
   }
 };
 </script>

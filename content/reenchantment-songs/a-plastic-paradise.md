@@ -65,5 +65,5 @@ lyrics: |
   Kaka kapata, kakakaka
   Ah
 
-  <pic src="spirit-writing-new-cover.jpg" alt="The Former Shroud of Delirium"></pic>
+  <photo src="spirit-writing-new-cover.jpg" alt="The Former Shroud of Delirium"></photo>
 ---

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img :src="imgSrc()" :alt="alt" class="article-image" />
+    <img :src="imgSrc()" :alt="alt" class="picture" />
     <figcaption>{{ caption }}</figcaption>
   </div>
 </template>
