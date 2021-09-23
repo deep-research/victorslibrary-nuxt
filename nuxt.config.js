@@ -107,5 +107,13 @@ export default {
     extend(config, { isDev, isClient }) {
       config.resolve.alias["vue"] = "vue/dist/vue.common"
     }
+  },
+
+  typescript: {
+    typeCheck: {
+      eslint: {
+        files: './**/*.{ts,js,vue}'
+      }
+    }
   }
 }
