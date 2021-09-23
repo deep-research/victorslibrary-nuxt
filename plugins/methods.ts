@@ -1,7 +1,7 @@
 // Global Function and Value Registration
 
-export default ({ app }, inject) => {
-  inject('div', section => 
+export default ({ app }: {app: any}, inject: any) => {
+  inject('div', (section: any) => 
     "<div>" + section + "</div>"
   )
 }
