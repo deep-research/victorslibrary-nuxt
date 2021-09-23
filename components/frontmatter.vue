@@ -4,10 +4,10 @@
     </span>
 </template>
 
-<script>
+<script lang="ts">
 export default {
   props: {
-    field: String,
+    field: String
   }
 };
 </script>
