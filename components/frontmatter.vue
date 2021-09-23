@@ -7,7 +7,10 @@
 <script lang="ts">
 export default {
   props: {
-    field: String
+    field: {
+      type: String,
+      required: true
+    }
   }
 };
 </script>
