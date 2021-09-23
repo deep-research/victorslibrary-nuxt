@@ -4,6 +4,7 @@
         <span style="font-size: 24px">(Experimental Version)
         </span>    
     </h1>
+
     <h2>Writing</h2>
     <div v-for="article in articles"  :key="'article/' + article.slug">
       <h2 v-if="article.type == 'Article'"><nuxt-link :to="article.slug">{{ article.title }}</nuxt-link></h2>

@@ -7,6 +7,7 @@
       <div v-if="article.type == 'Song'">
         <song :title="article.title"></song>
       </div>
+      
       <nuxt-content :document="article" />
     </div>
   </client-only>
