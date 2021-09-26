@@ -18,13 +18,29 @@
 </template>
 
 <script lang="ts">
-export default {
-  async asyncData ({ $content }: {$content: any }): Promise<any>  {
-    let articles = await $content('/', { deep: true }).sortBy('title').fetch()
+// export default {
+//   async asyncData ({ $content }: {$content: any }): Promise<any>  {
+//     let articles = await $content('/', { deep: true }).sortBy('title').fetch()
 
-    return {
-      articles
+//     return {
+//       articles
+//     }
+//   }
+// }
+
+  import {
+    Component,
+    Vue
+  } from "nuxt-property-decorator";
+
+  @Component({
+    async asyncData ({ $content }) {
+      let articles = await $content('/', { deep: true }).sortBy('title').fetch()
+
+      return {
+        articles
+      }
     }
-  }
-}
+  })
+  export default class extends Vue {}
 </script>
