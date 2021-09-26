@@ -18,7 +18,7 @@
 // import articleImage from '../components/articleImage.vue'
 
 export default {
-  async asyncData ({ $content, params, error }: { $content: any, app: any, params: any, error: any }) {
+  async asyncData ({ $content, params, error }: { $content: any, app: any, params: any, error: any }): Promise<any> {
     let article = await $content('/', { deep: true }).where({slug: params.slug}).fetch()
 
     article = article[0]

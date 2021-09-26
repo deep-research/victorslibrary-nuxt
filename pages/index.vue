@@ -19,7 +19,7 @@
 
 <script lang="ts">
 export default {
-  async asyncData ({ $content }: {$content: any })  {
+  async asyncData ({ $content }: {$content: any }): Promise<any>  {
     let articles = await $content('/', { deep: true }).sortBy('title').fetch()
 
     return {
