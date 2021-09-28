@@ -153,3 +153,5 @@ lyrics: |
   He who likes the sacrilegious and esoteric methods
   He who is the consort of G.G. Allen
 ---
+
+<song :title="title"></song>

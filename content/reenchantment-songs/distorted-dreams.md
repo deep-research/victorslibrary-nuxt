@@ -51,3 +51,5 @@ lyrics: |
   Omen from another, world
   Binded by the blood, of the sage
 ---
+
+<song :title="title"></song>

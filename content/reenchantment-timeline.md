@@ -5,6 +5,8 @@ type: Article
 update: September 6, 2021
 ---
 
+<post :title="title"></post>
+
 ### 2006
 
 -   I started playing guitar after I discovered 60s psychedelic rock bands like The Beatles, Queen, Led Zeppelin, Deep Purple, Steppenwolf, Creedence, Rare Earth and Jefferson Airplane.

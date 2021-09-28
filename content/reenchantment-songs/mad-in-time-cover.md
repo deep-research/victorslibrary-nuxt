@@ -47,3 +47,5 @@ lyrics: |
   Mad in time
   But thinking fine
 ---
+
+<song :title="title"></song>

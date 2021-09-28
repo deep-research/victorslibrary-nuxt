@@ -6,6 +6,8 @@ date: November 5, 2019
 update: September 7, 2021
 ---
 
+<post :title="title"></post>
+
 ## From Show 328
 
 

@@ -27,3 +27,5 @@ lyrics: |
   We’ve gone so far beyond any dreams we could imagine
   I hope you understand that we’ll never come back to home
 ---
+
+<song :title="title"></song>

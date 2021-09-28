@@ -34,3 +34,5 @@ lyrics: |
   > He said know thyself
   > Operate your brain
 ---
+
+<song :title="title"></song>

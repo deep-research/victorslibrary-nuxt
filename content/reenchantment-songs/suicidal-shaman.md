@@ -38,3 +38,5 @@ lyrics: |
   Your brightest turn to darkness
   For you must pay for every lie
 ---
+
+<song :title="title"></song>

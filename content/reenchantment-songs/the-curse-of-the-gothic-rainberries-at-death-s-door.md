@@ -54,3 +54,5 @@ lyrics: |
   An entire world crippled
   Our final days are here
 ---
+
+<song :title="title"></song>

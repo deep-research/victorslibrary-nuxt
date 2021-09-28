@@ -5,6 +5,8 @@ type: Article
 update: September 6, 2021
 ---
 
+<post :title="title"></post>
+
 This is a list of some projects that are related to my musical work in Reenchantment.
 
 1.  [Pater Shrouder](https://patershrouder.bandcamp.com/) - Evil Drone Metal by Aaron Schreiber

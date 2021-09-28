@@ -29,3 +29,5 @@ lyrics: |
   I know we’ll win the fight, if we prepare to die
   We’re prepared to die
 ---
+
+<song :title="title"></song>

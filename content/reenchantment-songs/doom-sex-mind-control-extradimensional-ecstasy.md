@@ -19,3 +19,5 @@ lyrics: |
   Female Voice:
   > What did you put in my drink?
 ---
+
+<song :title="title"></song>

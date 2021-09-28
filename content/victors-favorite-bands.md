@@ -6,6 +6,8 @@ date: September 23, 2019
 update: September 7, 2021
 ---
 
+<post :title="title"></post>
+
 These are some of my favorite bands:
 
 * ABBA

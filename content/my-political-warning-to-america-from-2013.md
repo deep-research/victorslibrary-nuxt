@@ -6,6 +6,8 @@ date: March 28, 2013
 update: September 6, 2021
 ---
 
+<post :title="title"></post>
+
 *Disclaimer: This piece does not necessarily reflect my current views.*
 
 From <b>The Reverend Report</b>\

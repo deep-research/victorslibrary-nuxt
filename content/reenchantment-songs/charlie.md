@@ -37,3 +37,5 @@ lyrics: |
   > In the spiritual world is where I live  
   > I exist in places you’ve never even dreamed of 
 ---
+
+<song :title="title"></song>

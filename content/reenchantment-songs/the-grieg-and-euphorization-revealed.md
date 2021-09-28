@@ -24,3 +24,5 @@ lyrics: |
   All men and creatures, must die in vain today
   You’ve brought upon your soul, a life of pain
 ---
+
+<song :title="title"></song>

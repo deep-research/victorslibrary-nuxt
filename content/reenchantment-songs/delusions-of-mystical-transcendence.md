@@ -46,3 +46,5 @@ lyrics: |
   I need to be fine
   With this fate of mine
 ---
+
+<song :title="title"></song>

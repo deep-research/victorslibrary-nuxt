@@ -56,3 +56,5 @@ lyrics: |
   You better save yourself, and your own mind
   Before they limit you, the way they’re blind
 ---
+
+<song :title="title"></song>

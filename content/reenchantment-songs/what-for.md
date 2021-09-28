@@ -30,3 +30,5 @@ lyrics: |
     We’re told they must be destroyed
     I still don’t know what for
 ---
+
+<song :title="title"></song>

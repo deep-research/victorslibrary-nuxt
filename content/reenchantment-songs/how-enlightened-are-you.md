@@ -24,3 +24,5 @@ lyrics: |
   Yeah
   Come on now
 ---
+
+<song :title="title"></song>

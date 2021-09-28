@@ -27,3 +27,5 @@ lyrics: |
   The life of a pilgrim
   Is not what it may seem
 ---
+
+<song :title="title"></song>

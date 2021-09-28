@@ -46,3 +46,5 @@ lyrics: |
 
   Hail to the end of all time, hail to the end of all
 ---
+
+<song :title="title"></song>

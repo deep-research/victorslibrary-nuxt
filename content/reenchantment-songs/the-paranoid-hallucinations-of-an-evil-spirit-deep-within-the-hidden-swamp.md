@@ -36,3 +36,5 @@ lyrics: |
   You’re being supplanted
   In cosmic haze
 ---
+
+<song :title="title"></song>

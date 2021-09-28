@@ -30,3 +30,5 @@ lyrics: |
   I cannot control the future
   For man is nothing
 ---
+
+<song :title="title"></song>

@@ -39,3 +39,5 @@ lyrics: |
   Save me from myself
   I’ve have enough of this
 ---
+
+<song :title="title"></song>

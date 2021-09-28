@@ -22,3 +22,5 @@ description: |
 
 lyrics: Instrumental
 ---
+
+<song :title="title"></song>

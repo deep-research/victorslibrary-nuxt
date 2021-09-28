@@ -56,3 +56,5 @@ lyrics: |
   Al Qaeda and Jesus
   Al Qaeda and Jesus Christ
 ---
+
+<song :title="title"></song>
