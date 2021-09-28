@@ -41,3 +41,5 @@ lyrics: |
   And no one can help me
   Everything around me is pure misery
 ---
+
+<song :title="title"></song>

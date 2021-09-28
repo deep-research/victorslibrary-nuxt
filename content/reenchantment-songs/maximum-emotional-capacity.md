@@ -28,3 +28,5 @@ lyrics: |
   Someday I pray that you will see
   And one day I pray that you will be there with me
 ---
+
+<song :title="title"></song>

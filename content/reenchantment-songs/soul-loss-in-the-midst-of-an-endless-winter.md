@@ -45,3 +45,5 @@ lyrics: |
   To help you understand what you need to find
   To save your mind
 ---
+
+<song :title="title"></song>

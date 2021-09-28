@@ -1,12 +1,12 @@
 <template>
   <client-only>
     <div>
-      <div v-if="article.type == 'Article'">
+      <!-- <div v-if="article.type == 'Article'">
         <heading :title="article.title"></heading>
       </div>
       <div v-else-if="article.type == 'Song'">
         <song :title="article.title"></song>
-      </div>
+      </div> -->
 
       <nuxt-content :document="article" />
     </div>

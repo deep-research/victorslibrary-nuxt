@@ -62,3 +62,5 @@ lyrics: |
   I’ll remember you
   I’ll be missing you
 ---
+
+<song :title="title"></song>

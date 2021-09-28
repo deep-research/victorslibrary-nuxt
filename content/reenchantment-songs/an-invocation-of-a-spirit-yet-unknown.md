@@ -32,3 +32,5 @@ lyrics: |
   >
   > If you don’t have a plan, you become a part of somebody else’s plan
 ---
+
+<song :title="title"></song>

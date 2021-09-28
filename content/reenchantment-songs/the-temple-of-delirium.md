@@ -46,3 +46,5 @@ lyrics: |
   > Anton LaVey began the road to the high priesthood of the Church of Satan when he was only 16 years old
   > And an organ player in a carnival
 ---
+
+<song :title="title"></song>

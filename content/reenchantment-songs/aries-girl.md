@@ -27,3 +27,5 @@ lyrics: |
   So thanks for all those memories, the beauty’s fadin’ fast
   And if you could feel my pain, you’d see that I won’t last
 ---
+
+<song :title="title"></song>

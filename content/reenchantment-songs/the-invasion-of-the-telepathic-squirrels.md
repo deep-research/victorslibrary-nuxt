@@ -18,3 +18,5 @@ recordings:
 lyrics: Instrumental
 
 ---
+
+<song :title="title"></song>

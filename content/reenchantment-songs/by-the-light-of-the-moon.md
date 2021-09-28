@@ -37,3 +37,5 @@ lyrics: |
   You have to face the pain and fear
   To leave the past behind
 ---
+
+<song :title="title"></song>

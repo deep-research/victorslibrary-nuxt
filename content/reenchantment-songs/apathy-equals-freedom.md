@@ -50,3 +50,5 @@ lyrics: |
   A lot freer than me
   A lot freer than
 ---
+
+<song :title="title"></song>

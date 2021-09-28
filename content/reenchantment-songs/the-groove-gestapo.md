@@ -21,3 +21,5 @@ lyrics: |
   > Open up the door
   > Are you grooving in there?
 ---
+
+<song :title="title"></song>

@@ -76,3 +76,5 @@ lyrics: |
   We’ll rot away, if we don’t try
   Come together, and expose the lie
 ---
+
+<song :title="title"></song>

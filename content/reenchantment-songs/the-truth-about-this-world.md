@@ -27,3 +27,5 @@ lyrics: |
   For those of us who feel the dream
   Or does it lie beyond the grave?
 ---
+
+<song :title="title"></song>

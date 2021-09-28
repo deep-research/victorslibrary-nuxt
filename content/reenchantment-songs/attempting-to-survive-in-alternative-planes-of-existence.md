@@ -66,3 +66,5 @@ lyrics: |
   Find out where you belong
   Together we will journey on
 ---
+
+<song :title="title"></song>

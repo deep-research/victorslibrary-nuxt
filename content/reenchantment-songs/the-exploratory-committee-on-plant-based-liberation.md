@@ -44,3 +44,5 @@ lyrics: |
   To live in fear
   In fear
 ---
+
+<song :title="title"></song>

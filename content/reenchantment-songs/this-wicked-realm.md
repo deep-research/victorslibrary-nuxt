@@ -31,3 +31,5 @@ lyrics: |
   This wicked realm
   This wicked
 ---
+
+<song :title="title"></song>

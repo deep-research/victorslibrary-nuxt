@@ -36,3 +36,5 @@ lyrics: |
   The seekers of the spirit realm
   Will reclaim the prize of doom
 ---
+
+<song :title="title"></song>

@@ -29,3 +29,5 @@ lyrics: |
 
   Save me
 ---
+
+<song :title="title"></song>

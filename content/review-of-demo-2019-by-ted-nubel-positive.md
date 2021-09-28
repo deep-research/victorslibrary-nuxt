@@ -6,6 +6,8 @@ date: October 28 2019
 update: September 7, 2021
 ---
 
+<post :title="title"></post>
+
 ## Chicago Doom Confederacy Review
 
 **[Original Post](http://www.chicagodoomconfederacy.com/review-strange-people-in-pain-demo-2019/)**

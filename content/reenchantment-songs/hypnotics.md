@@ -36,3 +36,5 @@ lyrics: |
   After the doom
   Of human dream
 ---
+
+<song :title="title"></song>

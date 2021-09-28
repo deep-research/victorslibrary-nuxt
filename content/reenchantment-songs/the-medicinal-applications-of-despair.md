@@ -31,3 +31,5 @@ lyrics: |
   Gun down all the people, so we can show them he’s real
   Bow down to the lord, he rules you all with his despair
 ---
+
+<song :title="title"></song>

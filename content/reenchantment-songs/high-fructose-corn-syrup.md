@@ -41,3 +41,5 @@ lyrics: |
   You wanted something to believe in, and I know
   I know that something’s gotta go
 ---
+
+<song :title="title"></song>

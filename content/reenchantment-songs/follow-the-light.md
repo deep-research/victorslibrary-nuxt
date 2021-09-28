@@ -53,3 +53,5 @@ lyrics: |
   The pain's never ending
   Satan laughs at me
 ---
+
+<song :title="title"></song>

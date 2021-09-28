@@ -36,3 +36,5 @@ lyrics: |
   There is still hope that we will find ourselves a way
   And leave their fear and tyranny exposed
 ---
+
+<song :title="title"></song>

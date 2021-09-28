@@ -42,3 +42,5 @@ lyrics: |
   Space never ends, unto eternity
   As does my mind, live on in me
 ---
+
+<song :title="title"></song>

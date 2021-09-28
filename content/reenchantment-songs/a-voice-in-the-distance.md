@@ -42,3 +42,5 @@ lyrics: |
   A voice that is calling
   For you to not give in
 ---
+
+<song :title="title"></song>

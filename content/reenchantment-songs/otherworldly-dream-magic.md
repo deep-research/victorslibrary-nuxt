@@ -25,3 +25,5 @@ lyrics: |
   To teach the generations
   That the art will stop the fall
 ---
+
+<song :title="title"></song>

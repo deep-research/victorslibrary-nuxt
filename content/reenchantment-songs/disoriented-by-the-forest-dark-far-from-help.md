@@ -48,3 +48,5 @@ lyrics: |
   ‘cause I wanted to be there, in my own life
   And I wanted to see you, one final time
 ---
+
+<song :title="title"></song>

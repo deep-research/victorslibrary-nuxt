@@ -5,6 +5,9 @@ type: Article
 date: September 29 2019
 update: September 7, 2021
 ---
+
+<post :title="title"></post>
+
 Around the year two thousand and six, a troubled artist known as Comrade Victor discovered a collection of sacred texts. The artifacts were found in a chamber on the very fringes of our reality. These priceless documents contained an extraordinary glimpse into the mysteries of rock music.
 
 <photo src="comrade-victor.jpg" alt="Comrade Victor" caption="Comrade Victor suffers from a rare form of psychosis."></photo>

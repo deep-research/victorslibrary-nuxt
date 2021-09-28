@@ -38,3 +38,5 @@ lyrics: |
   Female Voice:
   > Oh yeah
 ---
+
+<song :title="title"></song>
