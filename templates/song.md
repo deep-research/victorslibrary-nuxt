@@ -19,3 +19,5 @@ recordings:
 lyrics: |
 
 ---
+
+<song :title="title"></song>
