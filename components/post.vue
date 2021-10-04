@@ -7,8 +7,8 @@
 
     <div style="font-size: 120%">
       <div v-if="article.author">Author: {{ article.author }}</div>
-      <div v-if="article.date">Published: {{ article.date }}</div>
-      <div v-if="article.update">Updated: {{ article.update }}</div>
+      <div v-if="article.published">Published: {{ article.published }}</div>
+      <div v-if="article.updated">Updated: {{ article.updated }}</div>
     </div>
   </div>
 </template>

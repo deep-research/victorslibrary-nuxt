@@ -2,7 +2,8 @@
 title: Reenchantment Related Projects
 author: Victor Fisher
 type: Article
-update: September 6, 2021
+published: Article
+updated: September 6, 2021
 ---
 
 <post :title="title"></post>

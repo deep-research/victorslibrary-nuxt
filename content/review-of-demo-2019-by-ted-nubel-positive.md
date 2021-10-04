@@ -2,8 +2,8 @@
 title: Review of Demo 2019 by Ted Nubel (Positive)
 author: Ted Nubel
 type: Article
-date: October 28 2019
-update: September 7, 2021
+published: October 28 2019
+updated: September 7, 2021
 ---
 
 <post :title="title"></post>
