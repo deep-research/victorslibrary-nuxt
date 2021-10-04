@@ -6,7 +6,7 @@ published: September 11, 2019
 updated: September 6, 2021
 ---
 
-<post :title="title"></post>
+<post-info :title="title"></post-info>
 
 Here are some of my favorite sources, and the research topics that I am are currently looking into.
 
