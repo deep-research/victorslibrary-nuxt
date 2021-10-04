@@ -2,8 +2,8 @@
 title: Review of The Ritual By She Likes It Heavy (Positive)
 author: DJ Prajmetal
 type: Article
-date: November 5, 2019
-update: September 7, 2021
+published: November 5, 2019
+updated: September 7, 2021
 ---
 
 <post :title="title"></post>
