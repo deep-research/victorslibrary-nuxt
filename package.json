@@ -21,7 +21,6 @@
     "@nuxtjs/pwa": "^3.3.5",
     "camelcase": "^6.2.0",
     "core-js": "^3.18.0",
-    "nuxt": "^2.15.7",
     "nuxt-edge": "latest",
     "v-runtime-template": "^1.10.0"
   },
