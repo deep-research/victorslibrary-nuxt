@@ -20,7 +20,7 @@
       <div v-if="article.updated">Updated: {{ article.updated }}</div>
 
       <!-- Category -->
-      <div>
+      <div v-if="article.category">
 
         <!-- Label -->
         Category:
@@ -83,6 +83,6 @@ export default Vue.extend({
   }
 
   .metadata {
-    font-size: 120%
+    font-size: 120%;
   }
 </style>

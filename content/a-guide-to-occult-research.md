@@ -7,7 +7,7 @@ updated: September 6, 2021
 category:
   1: Writing
   2: Research
-  3: Occult
+  3: Occultism 
 ---
 
 <post-info :title="title"></post-info>
