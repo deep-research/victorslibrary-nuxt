@@ -13,12 +13,12 @@
   </client-only>
 </template>
 
-<script lang="ts">
+<script>
 // Typescript Import Example:
 // import articleImage from '../components/articleImage.vue'
 
 export default {
-  async asyncData ({ $content, params, error }: { $content: any, app: any, params: any, error: any }): Promise<any> {
+  async asyncData ({ $content, params, error }) {
     let article = await $content('/', { deep: true }).where({slug: params.slug}).fetch()
 
     article = article[0]

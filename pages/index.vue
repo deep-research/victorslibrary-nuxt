@@ -17,9 +17,9 @@
   </div>
 </template>
 
-<script lang="ts">
+<script>
 export default {
-  async asyncData ({ $content }: {$content: any }): Promise<any>  {
+  async asyncData ({ $content }) {
     let articles = await $content('/', { deep: true }).sortBy('title').fetch()
 
     return {
