@@ -5,9 +5,15 @@ type: Article
 published: September 11, 2019
 updated: September 6, 2021
 category:
-  1: Writing
-  2: Research
-  3: Occultism 
+  1:
+    name: Writing
+    url: /writing
+  2: 
+    name: Research
+    url: /research
+  3:  
+    name: Occultism
+    url: /occult
 ---
 
 <post-info :title="title"></post-info>

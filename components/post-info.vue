@@ -28,14 +28,14 @@
         <!-- Category Loop -->
         <span
           v-for="(item, index) in article.category"
-          :key="item"
+          :key="item.name"
         >
 
           <!-- Circled Number -->
           <span class="circled-number">{{parseInt(index)}}</span>
 
           <!-- Link to Category -->
-          <NuxtLink :to="'/'+item.toLowerCase()">{{ item }}</NuxtLink
+          <NuxtLink :to="item.url">{{ item.name }}</NuxtLink
           
           ><!-- Comma After Link --><span
             v-if="parseInt(index) < Object.keys(article.category).length"
