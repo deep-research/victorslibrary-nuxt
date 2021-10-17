@@ -7077,7 +7077,19 @@ jest-snapshot@^27.2.5:
     pretty-format "^27.2.5"
     semver "^7.3.2"
 
-jest-util@^27.0.0, jest-util@^27.2.5:
+jest-util@^27.0.0:
+  version "27.2.4"
+  resolved "https://registry.yarnpkg.com/jest-util/-/jest-util-27.2.4.tgz#3d7ce081b2e7f4cfe0156452ac01f3cb456cc656"
+  integrity sha512-mW++4u+fSvAt3YBWm5IpbmRAceUqa2B++JlUZTiuEt2AmNYn0Yw5oay4cP17TGsMINRNPSGiJ2zNnX60g+VbFg==
+  dependencies:
+    "@jest/types" "^27.2.4"
+    "@types/node" "*"
+    chalk "^4.0.0"
+    graceful-fs "^4.2.4"
+    is-ci "^3.0.0"
+    picomatch "^2.2.3"
+
+jest-util@^27.2.5:
   version "27.2.5"
   resolved "https://registry.yarnpkg.com/jest-util/-/jest-util-27.2.5.tgz#88740c4024d223634a82ce7c2263e8bc6df3b3ba"
   integrity sha512-QRhDC6XxISntMzFRd/OQ6TGsjbzA5ONO0tlAj2ElHs155x1aEr0rkYJBEysG6H/gZVH3oGFzCdAB/GA8leh8NQ==
