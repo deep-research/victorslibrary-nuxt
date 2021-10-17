@@ -20,7 +20,7 @@
       <div v-if="article.updated">Updated: {{ article.updated }}</div>
 
       <!-- Category -->
-      <div>
+      <div v-if="article.category">
 
         <!-- Label -->
         Category:
