@@ -8,10 +8,10 @@ category:
   1:
     name: Writing
     url: /writing
-  2: 
+  2:
     name: Research
     url: /research
-  3:  
+  3:
     name: Occultism
     url: /occult
 ---
