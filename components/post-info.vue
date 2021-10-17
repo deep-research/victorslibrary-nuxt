@@ -8,7 +8,7 @@
     <br />
 
     <!-- Metadata Section -->
-    <div style="font-size: 120%">
+    <div class="metadata">
 
       <!-- Author -->
       <div v-if="article.author">Author: {{ article.author }}</div>
@@ -80,5 +80,9 @@ export default Vue.extend({
     text-align: center;
     width: 1.4em;
     font-size: 75%;
+  }
+
+  .metadata {
+    font-size: 120%
   }
 </style>
