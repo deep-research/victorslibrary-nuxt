@@ -4,6 +4,10 @@ author: Victor Fisher
 type: Article
 published: September 11, 2019
 updated: September 6, 2021
+category:
+  1: Writing
+  2: Research
+  3: Occult
 ---
 
 <post-info :title="title"></post-info>
