@@ -46,9 +46,8 @@
   </div>
 </template>
 
-<script lang="ts">
-import Vue from 'vue';
-export default Vue.extend({
+<script>
+export default {
   props: {
     title: {
       type: String,
@@ -61,10 +60,10 @@ export default Vue.extend({
     }
   },
   async fetch() {
-    let article: any = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
+    let article = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
     this.article = article[0]
   }
-})
+}
 </script>
 
 <style scoped>
