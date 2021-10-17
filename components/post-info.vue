@@ -18,6 +18,30 @@
 
       <!-- Updated -->
       <div v-if="article.updated">Updated: {{ article.updated }}</div>
+
+      <!-- Category -->
+      <div>
+
+        <!-- Label -->
+        Category:
+         
+        <!-- Category Loop -->
+        <span
+          v-for="(item, index) in article.category"
+          :key="item"
+        >
+
+          <!-- Circled Number -->
+          <span class="circled-number">{{parseInt(index)}}</span>
+
+          <!-- Link to Category -->
+          <NuxtLink :to="'/'+item.toLowerCase()">{{ item }}</NuxtLink
+          
+          ><!-- Comma After Link --><span
+            v-if="parseInt(index) < Object.keys(article.category).length"
+          >, </span>
+        </span>
+      </div>
     </div>
   </div>
 </template>
