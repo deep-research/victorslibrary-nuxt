@@ -60,9 +60,11 @@ export default {
     }
   },
   async fetch() {
+    console.log("before fetch")
     let article = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
+    console.log("after fetch")
     this.article = article[0]
-    console.log("dfgfdg")
+    console.log("after write")
   }
 }
 </script>
