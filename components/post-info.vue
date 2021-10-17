@@ -1,43 +1,32 @@
 <template>
   <div>
-    <!-- Article Title -->
     <h1 v-if="article.title">Article: {{ article.title }}</h1>
 
-    <!-- Link to Home -->
     <p><nuxt-link to="/">Home Page</nuxt-link></p>
     <br />
 
-    <!-- Metadata Section -->
     <div class="metadata">
 
-      <!-- Author -->
       <div v-if="article.author">Author: {{ article.author }}</div>
 
-      <!-- Published -->
       <div v-if="article.published">Published: {{ article.published }}</div>
 
-      <!-- Updated -->
       <div v-if="article.updated">Updated: {{ article.updated }}</div>
 
-      <!-- Category -->
       <div>
 
-        <!-- Label -->
         Category:
          
-        <!-- Category Loop -->
         <span
           v-for="(item, index) in article.category"
           :key="item"
         >
 
-          <!-- Circled Number -->
           <span class="circled-number">{{parseInt(index)}}</span>
 
-          <!-- Link to Category -->
           <NuxtLink :to="'/'+item.toLowerCase()">{{ item }}</NuxtLink
           
-          ><!-- Comma After Link --><span
+          ><span
             v-if="parseInt(index) < Object.keys(article.category).length"
           >, </span>
         </span>
