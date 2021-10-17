@@ -21,12 +21,11 @@
     "@nuxtjs/pwa": "^3.3.5",
     "camelcase": "^6.2.0",
     "core-js": "^3.18.0",
-    "nuxt-edge": "latest",
+    "nuxt-edge": "^2.16.0-27226092.034b9901",
     "v-runtime-template": "^1.10.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.15.4",
-    "@nuxt/bridge": "npm:@nuxt/bridge-edge",
     "@nuxt/types": "^2.15.8",
     "@nuxt/typescript-build": "^2.1.0",
     "@nuxtjs/eslint-config-typescript": "^6.0.1",
