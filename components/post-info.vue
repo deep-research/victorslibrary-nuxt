@@ -63,7 +63,8 @@ export default Vue.extend({
   async fetch() {
     let article: any = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
     this.article = article[0]
-  }
+  },
+  fetchKey: 'post-info'
 })
 </script>
 
