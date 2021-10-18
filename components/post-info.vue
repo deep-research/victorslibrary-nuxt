@@ -60,7 +60,7 @@ export default {
     }
   },
   async fetch() {
-    let article = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
+    let article = await this.$content('/', { deep: true }).where({title: this.title}).fetch().then(console.log("Fetched"))
     this.article = article[0]
   },
   fetchKey: 'post-info'
