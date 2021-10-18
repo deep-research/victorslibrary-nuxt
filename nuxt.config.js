@@ -103,6 +103,7 @@ export default {
   content: {},
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
+  // vue-runtime-template:
   build: {
     extend(config, { isDev, isClient }) {
       config.resolve.alias["vue"] = "vue/dist/vue.common"
