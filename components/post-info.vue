@@ -1,6 +1,5 @@
 <template>
   <div>
-    {{title}}
     <!-- Article Title -->
     <h1 v-if="article.title">Article: {{ article.title }}</h1>
 
