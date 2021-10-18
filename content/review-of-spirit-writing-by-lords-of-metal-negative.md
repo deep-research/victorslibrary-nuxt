@@ -4,7 +4,7 @@ author: Marcel H.
 type: Article
 ---
 
-<post-info :title="title"></post-info>
+<!-- <post-info :title="title"></post-info> -->
 
 <br />
 <photo src="spirit-writing-old-cover.jpg" alt="Spirit Writing Cover"></photo>

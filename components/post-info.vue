@@ -62,10 +62,6 @@ export default {
   async fetch() {
     let article = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
     this.article = article[0]
-  },
-  fetchKey: 'site-post',
-  fetchKey (getCounter) {
-    return this.title + getCounter('post')
   }
 }
 </script>
