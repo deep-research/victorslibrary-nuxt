@@ -1,4 +1,7 @@
 <template>
+  <p v-if="$fetchState.pending">Fetching article...</p>
+  <p v-else-if="$fetchState.error">An error occurred :(</p>
+  <div v-else>
   <div>
     <!-- Article Title -->
     <h1 v-if="article.title">Article: {{ article.title }}</h1>
@@ -44,6 +47,7 @@
       </div>
     </div>
   </div>
+  </div>
 </template>
 
 <script>
@@ -60,7 +64,7 @@ export default {
     }
   },
   async fetch() {
-    let article = await this.$content('/', { deep: true }).where({title: this.title}).fetch().then(console.log("Fetched"))
+    let article = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
     this.article = article[0]
   },
   fetchKey: 'post-info'
