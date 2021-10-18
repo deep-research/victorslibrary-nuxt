@@ -1,6 +1,6 @@
 <template>
   <p v-if="$fetchState.pending">Fetching article...</p>
-  <p v-else-if="$fetchState.error">An error occurred :(</p>
+  <p v-else-if="$fetchState.error">{{$fetchState}}</p>
   <div v-else>
   <div>
     <!-- Article Title -->
