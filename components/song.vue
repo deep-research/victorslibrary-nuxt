@@ -68,6 +68,8 @@ export default Vue.extend({
     let article = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
     this.article = article[0]
   },
-  name: 'song'
+  fetchKey (getCounter) {
+    return this.title + getCounter('song')
+  }
 })
 </script>
