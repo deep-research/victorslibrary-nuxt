@@ -1,8 +1,5 @@
 <template>
   <div>
-    dfgdfgfdgfdgg
-    <post-info title="A Guide to Occult Research"></post-info>
-
     <h1>Victor's Library<br />
         <span style="font-size: 24px">(Experimental Version)
         </span>    
