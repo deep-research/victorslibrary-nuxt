@@ -18,8 +18,6 @@ category:
 
 <post-info :title="title"></post-info>
 
-Frontmatter: <frontmatter :field="title"></frontmatter>
-
 Here are some of my favorite sources, and the research topics that I am are currently looking into.
 
 ## How to Study
