@@ -43,7 +43,7 @@ Meditation is an introspective practice where you follow your thought process. Y
 
 ### [Hypnosis](http://www.worldcat.org/oclc/1066694401)
 
-Hypnosis differs from meditation bin that you actually alter your thoughts. You can use it to influence your subconscious mind.
+Hypnosis differs from meditation in that you actually alter your thoughts. You can use it to influence your subconscious mind.
 
 As Lao Tzu wrote:
 > Watch your thoughts, they become your words;
