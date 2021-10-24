@@ -28,4 +28,4 @@ lyrics: |
   I hope you understand that we’ll never come back to home
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

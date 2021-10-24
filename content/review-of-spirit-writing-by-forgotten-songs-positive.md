@@ -4,7 +4,7 @@ author: D. Kelvin
 type: Article
 ---
 
-<post-info :title="title"></post-info>
+<Post :title="title"></Post>
 
 <br />
 <photo src="spirit-writing-new-cover.jpg" alt="Spirit Writing Cover"></photo>

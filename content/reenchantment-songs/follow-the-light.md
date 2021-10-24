@@ -54,4 +54,4 @@ lyrics: |
   Satan laughs at me
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

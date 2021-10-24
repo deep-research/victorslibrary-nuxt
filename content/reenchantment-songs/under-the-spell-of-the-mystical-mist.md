@@ -37,4 +37,4 @@ lyrics: |
   Will reclaim the prize of doom
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

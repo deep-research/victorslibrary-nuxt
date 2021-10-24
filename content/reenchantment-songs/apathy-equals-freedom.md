@@ -51,4 +51,4 @@ lyrics: |
   A lot freer than
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

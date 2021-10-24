@@ -29,4 +29,4 @@ lyrics: |
   And one day I pray that you will be there with me
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

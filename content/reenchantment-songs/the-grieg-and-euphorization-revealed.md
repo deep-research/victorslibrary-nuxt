@@ -25,4 +25,4 @@ lyrics: |
   You’ve brought upon your soul, a life of pain
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

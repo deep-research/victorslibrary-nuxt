@@ -20,4 +20,4 @@ lyrics: |
 
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

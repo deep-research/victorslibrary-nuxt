@@ -154,4 +154,4 @@ lyrics: |
   He who is the consort of G.G. Allen
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

@@ -22,4 +22,4 @@ lyrics: |
   > Are you grooving in there?
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

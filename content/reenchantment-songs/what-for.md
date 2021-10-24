@@ -31,4 +31,4 @@ lyrics: |
     I still don’t know what for
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

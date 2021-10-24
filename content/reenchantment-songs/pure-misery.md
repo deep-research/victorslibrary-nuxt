@@ -42,4 +42,4 @@ lyrics: |
   Everything around me is pure misery
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

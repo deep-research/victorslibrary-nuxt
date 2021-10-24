@@ -31,4 +31,4 @@ lyrics: |
   For man is nothing
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

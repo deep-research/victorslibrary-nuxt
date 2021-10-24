@@ -2,13 +2,13 @@
 
 import Vue from 'vue'
 import VRuntimeTemplate from "v-runtime-template"
-import song from '@/components/song.vue'
-import postInfo from '@/components/post-info.vue'
+import Song from '../components/Song.vue'
+import Post from '../components/Post.vue'
     
 const components = { 
   VRuntimeTemplate,
-  song,
-  postInfo
+  Song,
+  Post
 }
    
 Object.entries(components).forEach(([name, component]) => {

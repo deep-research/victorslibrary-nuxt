@@ -67,4 +67,4 @@ lyrics: |
   Together we will journey on
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

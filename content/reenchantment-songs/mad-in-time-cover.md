@@ -48,4 +48,4 @@ lyrics: |
   But thinking fine
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

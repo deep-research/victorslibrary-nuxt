@@ -67,4 +67,4 @@ lyrics: |
   You know their m\*\*\*erf\*\*\*ing clock
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

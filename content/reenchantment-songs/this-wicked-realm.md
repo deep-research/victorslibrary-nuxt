@@ -32,4 +32,4 @@ lyrics: |
   This wicked
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

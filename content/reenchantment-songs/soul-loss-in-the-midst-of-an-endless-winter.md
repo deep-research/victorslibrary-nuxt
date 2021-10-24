@@ -46,4 +46,4 @@ lyrics: |
   To save your mind
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

@@ -39,4 +39,4 @@ lyrics: |
   > Oh yeah
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

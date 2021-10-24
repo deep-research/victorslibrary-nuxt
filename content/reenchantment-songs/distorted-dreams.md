@@ -52,4 +52,4 @@ lyrics: |
   Binded by the blood, of the sage
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

@@ -29,4 +29,4 @@ lyrics: |
   I love you
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

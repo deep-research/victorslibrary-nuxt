@@ -19,4 +19,4 @@ recordings:
 lyrics: Instrumental
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

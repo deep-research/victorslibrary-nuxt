@@ -37,4 +37,4 @@ lyrics: |
   And leave their fear and tyranny exposed
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>

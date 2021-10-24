@@ -49,4 +49,4 @@ lyrics: |
   And I wanted to see you, one final time
 ---
 
-<song :title="title"></song>
+<Song :title="title"></Song>
