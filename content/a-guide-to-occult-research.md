@@ -16,7 +16,7 @@ category:
     url: /occult
 ---
 
-<post title="Why We Need Despair"></post>
+<post :title="title"></post>
 
 Here are some of my favorite sources, and the research topics that I am are currently looking into.
 
