@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import VRuntimeTemplate from "v-runtime-template"
 
-import Song from '@/components/Song.vue'
+import Song from '~components/Song.vue'
 import Post from '@/components/Post.vue'
     
 const components = { 
