@@ -55,4 +55,4 @@ lyrics: |
   Our final days are here
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

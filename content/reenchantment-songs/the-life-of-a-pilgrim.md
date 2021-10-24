@@ -28,4 +28,4 @@ lyrics: |
   Is not what it may seem
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

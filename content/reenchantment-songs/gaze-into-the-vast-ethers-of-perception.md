@@ -43,4 +43,4 @@ lyrics: |
   As does my mind, live on in me
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

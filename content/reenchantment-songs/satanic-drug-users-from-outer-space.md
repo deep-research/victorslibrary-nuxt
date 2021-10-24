@@ -18,4 +18,4 @@ recordings:
 lyrics: Satan has the best drugs
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

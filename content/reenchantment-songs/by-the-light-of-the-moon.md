@@ -38,4 +38,4 @@ lyrics: |
   To leave the past behind
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

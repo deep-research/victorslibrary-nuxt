@@ -43,4 +43,4 @@ lyrics: |
   For you to not give in
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

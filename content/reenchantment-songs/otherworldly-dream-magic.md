@@ -26,4 +26,4 @@ lyrics: |
   That the art will stop the fall
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

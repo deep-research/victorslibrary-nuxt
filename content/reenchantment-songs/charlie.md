@@ -38,4 +38,4 @@ lyrics: |
   > I exist in places you’ve never even dreamed of 
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

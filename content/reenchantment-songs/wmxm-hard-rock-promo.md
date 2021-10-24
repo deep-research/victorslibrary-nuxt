@@ -19,4 +19,4 @@ recordings:
 lyrics: You’re listening to WMXM 88.9 FM
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

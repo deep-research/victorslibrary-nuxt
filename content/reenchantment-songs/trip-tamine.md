@@ -35,4 +35,4 @@ lyrics: |
   > Operate your brain
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

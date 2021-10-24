@@ -47,4 +47,4 @@ lyrics: |
   With this fate of mine
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

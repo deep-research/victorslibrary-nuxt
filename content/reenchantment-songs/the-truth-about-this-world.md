@@ -28,4 +28,4 @@ lyrics: |
   Or does it lie beyond the grave?
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

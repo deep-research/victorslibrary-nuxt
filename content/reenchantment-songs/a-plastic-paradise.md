@@ -68,4 +68,4 @@ lyrics: |
   <photo src="spirit-writing-new-cover.jpg" alt="The Former Shroud of Delirium"></photo>
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

@@ -57,4 +57,4 @@ lyrics: |
   Before they limit you, the way they’re blind
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

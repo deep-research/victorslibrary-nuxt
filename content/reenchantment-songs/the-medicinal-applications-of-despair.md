@@ -32,4 +32,4 @@ lyrics: |
   Bow down to the lord, he rules you all with his despair
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

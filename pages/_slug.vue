@@ -5,7 +5,7 @@
         <heading :title="article.title"></heading>
       </div>
       <div v-else-if="article.type == 'Song'">
-        <Song :title="article.title"></Song>
+        <song :title="article.title"></song>
       </div> -->
 
       <nuxt-content :document="article" />

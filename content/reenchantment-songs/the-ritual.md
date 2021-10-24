@@ -40,4 +40,4 @@ lyrics: |
   I’ve have enough of this
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

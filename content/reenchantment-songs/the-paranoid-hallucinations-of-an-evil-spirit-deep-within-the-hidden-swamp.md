@@ -37,4 +37,4 @@ lyrics: |
   In cosmic haze
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

@@ -30,4 +30,4 @@ lyrics: |
   We’re prepared to die
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

@@ -25,4 +25,4 @@ lyrics: |
   Come on now
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

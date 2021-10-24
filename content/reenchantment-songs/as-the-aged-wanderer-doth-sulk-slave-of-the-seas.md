@@ -33,4 +33,4 @@ lyrics: |
   What have I done to deserve this fate
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

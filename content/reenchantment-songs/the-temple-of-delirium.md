@@ -47,4 +47,4 @@ lyrics: |
   > And an organ player in a carnival
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

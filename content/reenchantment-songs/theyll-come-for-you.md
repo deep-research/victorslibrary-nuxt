@@ -77,4 +77,4 @@ lyrics: |
   Come together, and expose the lie
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

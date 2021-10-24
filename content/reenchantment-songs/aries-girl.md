@@ -28,4 +28,4 @@ lyrics: |
   And if you could feel my pain, you’d see that I won’t last
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

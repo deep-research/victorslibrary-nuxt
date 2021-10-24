@@ -63,4 +63,4 @@ lyrics: |
   I’ll be missing you
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

@@ -6,7 +6,7 @@ published: September 23, 2019
 updated: September 7, 2021
 ---
 
-<Post :title="title"></Post>
+<post :title="title"></post>
 
 These are some of my favorite bands:
 

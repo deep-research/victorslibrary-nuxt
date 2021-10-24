@@ -20,4 +20,4 @@ lyrics: |
   > What did you put in my drink?
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

@@ -33,4 +33,4 @@ lyrics: |
   *This has been a public service announcement from The Reverend of Despair*
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

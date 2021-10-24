@@ -42,4 +42,4 @@ lyrics: |
   I know that something’s gotta go
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

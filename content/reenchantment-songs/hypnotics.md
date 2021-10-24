@@ -37,4 +37,4 @@ lyrics: |
   Of human dream
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>

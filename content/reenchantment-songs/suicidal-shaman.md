@@ -39,4 +39,4 @@ lyrics: |
   For you must pay for every lie
 ---
 
-<Song :title="title"></Song>
+<song :title="title"></song>
