@@ -2,9 +2,11 @@
 
 import Vue from 'vue'
 import VRuntimeTemplate from "v-runtime-template"
+import Song from '~components/song.vue'
     
 const components = { 
-  VRuntimeTemplate
+  VRuntimeTemplate,
+  Song
 }
    
 Object.entries(components).forEach(([name, component]) => {
