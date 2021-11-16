@@ -16,6 +16,7 @@
 <script>
 // Typescript Import Example:
 // import articleImage from '../components/articleImage.vue'
+import post from "../components/post.vue"
 
 export default {
   async asyncData ({ $content, params, error }) {
