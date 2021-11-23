@@ -6,7 +6,7 @@ published: September 29 2019
 updated: September 7, 2021
 ---
 
-<post :title="title"></post>
+<blog-post :title="title"></blog-post>
 
 Around the year two thousand and six, a troubled artist known as Comrade Victor discovered a collection of sacred texts. The artifacts were found in a chamber on the very fringes of our reality. These priceless documents contained an extraordinary glimpse into the mysteries of rock music.
 
