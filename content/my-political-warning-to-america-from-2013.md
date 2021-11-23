@@ -6,7 +6,7 @@ published: March 28, 2013
 updated: September 6, 2021
 ---
 
-<post :title="title"></post>
+<article :title="title"></article>
 
 *Disclaimer: This piece does not necessarily reflect my current views.*
 

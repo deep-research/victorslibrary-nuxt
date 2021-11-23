@@ -6,7 +6,7 @@ published: November 5, 2019
 updated: September 7, 2021
 ---
 
-<post :title="title"></post>
+<article :title="title"></article>
 
 ## From Show 328
 

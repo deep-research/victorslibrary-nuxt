@@ -6,7 +6,7 @@ published: March 7, 2013
 updated: September 6, 2021
 ---
 
-<post :title="title"></post>
+<article :title="title"></article>
 
 From <b>The Reverend Report</b>\
 *Despair is the precursor to greatness!*
