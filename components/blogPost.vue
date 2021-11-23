@@ -21,7 +21,7 @@ export default {
   },
   async fetch() {
     let article = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
-    console.log(article)
+    this.article = article[0]
   }
 }
 </script>
