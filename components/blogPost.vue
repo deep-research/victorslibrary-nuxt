@@ -20,7 +20,8 @@ export default {
     }
   },
   async fetch() {
-    console.log(`test me`)
+    let article = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
+    console.log(article)
   }
 }
 </script>
