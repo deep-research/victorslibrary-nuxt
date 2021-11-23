@@ -5,7 +5,7 @@ type: Article
 updated: September 6, 2021
 ---
 
-<article :title="title"></article>
+<post :title="title"></post>
 
 ### 2006
 

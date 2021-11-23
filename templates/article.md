@@ -5,4 +5,4 @@ date:
 update: 
 ---
 
-<article :title="title"></article>
+<post :title="title"></post>
