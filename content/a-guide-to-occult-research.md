@@ -16,7 +16,7 @@ category:
     url: /occult
 ---
 
-<blog-post :title="title"></blog-post>
+<blogPost :title="title"></blogPost>
 
 Here are some of my favorite sources, and the research topics that I am are currently looking into.
 

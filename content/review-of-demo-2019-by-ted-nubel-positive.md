@@ -6,7 +6,7 @@ published: October 28 2019
 updated: September 7, 2021
 ---
 
-<blog-post :title="title"></blog-post>
+<blogPost :title="title"></blogPost>
 
 ## Chicago Doom Confederacy Review
 

@@ -6,7 +6,7 @@ published: December 1, 2018
 updated: September 6, 2021
 ---
 
-<blog-post :title="title"></blog-post>
+<blogPost :title="title"></blogPost>
 
 This is a list of some projects that are related to my musical work in Reenchantment.
 
