@@ -1,7 +1,7 @@
 <template>
   <client-only>
     <div>
-      soijfodjfosdifjsodfijsdo
+      {{ title }}
     </div>
   </client-only>
 </template>
