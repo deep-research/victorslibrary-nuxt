@@ -67,7 +67,7 @@ export default Vue.extend({
     }
   },
   async fetch() {
-    let article = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
+    let article = await this.$content("", { deep: true }).where({title: this.title}).fetch()
     this.article = article[0]
   }
 })
