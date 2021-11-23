@@ -1,7 +1,7 @@
 <template>
   <client-only>
     <div>
-      {{ title }}
+      {{ article }}
     </div>
   </client-only>
 </template>
