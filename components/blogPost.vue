@@ -62,7 +62,7 @@ export default {
     }
   },
   async fetch() {
-    let article = await this.$content('/', { deep: true }).where({title: this.title}).fetch()
+    let article = await this.$content('/', { deep: true }).where({title: "A Guide to Occult Research"}).fetch()
     this.article = article[0]
   }
 }
