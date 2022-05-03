@@ -20,7 +20,7 @@
     "@nuxtjs/markdownit": "^2.0.0",
     "@nuxtjs/pwa": "^3.3.5",
     "camelcase": "^6.2.0",
-    "core-js": "^3.18.0",
+    "core-js": "^3.22.4",
     "nuxt": "2.15.8",
     "v-runtime-template": "^1.10.0"
   },
